@@ -1,0 +1,1001 @@
+Patient_ID,Patient_Name,Age,Gender,Department,Doctor_Name,Disease,Admission_Date,Discharge_Date,Treatment_Cost,Insurance_Status,Patient_Status,Length_of_Stay
+1001,Jeet Kadakia,1,Male,Orthopedics,Dr. Kumar,Back Pain,2025-09-20,2025-10-02,129523,No,Under Treatment,12
+1002,Abeer Krishnamurthy,82,Male,Cardiology,Dr. Singh,Hypertension,2024-09-24,2024-10-06,107683,Yes,Recovered,12
+1003,Chatresh Baria,77,Male,Orthopedics,Dr. Sharma,Arthritis,2026-05-03,2026-05-09,71765,Yes,Critical,6
+1004,Chaman Walia,53,Male,General Medicine,Dr. Rao,Diabetes,2025-06-06,2025-06-19,38749,No,Recovered,13
+1005,Yoshita Samra,26,Male,Dermatology,Dr. Singh,Eczema,2025-10-29,2025-11-03,146964,No,Under Treatment,5
+1006,Radhika Pandya,24,Male,Orthopedics,Dr. Rao,Fracture,2025-04-19,2025-05-02,7715,No,Critical,13
+1007,Pranit Deshpande,32,Male,Pediatrics,Dr. Rao,Asthma,2025-03-04,2025-03-19,19842,No,Critical,15
+1008,Girish Gulati,28,Female,Pediatrics,Dr. Singh,Chickenpox,2024-08-14,2024-08-29,91087,Yes,Recovered,15
+1009,Krishna Mani,43,Male,Pediatrics,Dr. Sharma,Asthma,2026-04-10,2026-04-11,24900,Yes,Critical,1
+1010,Urvashi Aurora,15,Male,Cardiology,Dr. Mehta,Hypertension,2025-03-24,2025-03-31,89824,No,Under Treatment,7
+1011,Kritika More,70,Male,General Medicine,Dr. Sharma,Infection,2024-12-01,2024-12-15,27821,No,Under Treatment,14
+1012,Gavin Mani,3,Female,General Medicine,Dr. Rao,Diabetes,2024-09-14,2024-09-21,92578,No,Recovered,7
+1013,Michael Khare,40,Male,Neurology,Dr. Patel,Stroke,2024-11-29,2024-12-07,149104,Yes,Recovered,8
+1014,Meera Chana,19,Female,Cardiology,Dr. Singh,Arrhythmia,2024-12-19,2025-01-03,43429,Yes,Critical,15
+1015,Karan Loke,55,Male,General Medicine,Dr. Mehta,Infection,2026-03-13,2026-03-21,50243,No,Critical,8
+1016,Banjeet Choudhry,28,Female,Pediatrics,Dr. Singh,Asthma,2026-04-08,2026-04-16,112922,No,Under Treatment,8
+1017,Aryan Dara,67,Male,Neurology,Dr. Singh,Migraine,2025-08-14,2025-08-16,142039,Yes,Recovered,2
+1018,Hema Amble,26,Male,General Medicine,Dr. Patel,Infection,2024-10-18,2024-10-25,122816,No,Recovered,7
+1019,Tara Nagi,50,Female,Orthopedics,Dr. Rao,Back Pain,2024-12-03,2024-12-18,115475,Yes,Under Treatment,15
+1020,Falguni Pillai,66,Male,Neurology,Dr. Sharma,Epilepsy,2025-03-25,2025-03-27,115795,Yes,Under Treatment,2
+1021,Neha Pandit,90,Male,Dermatology,Dr. Singh,Eczema,2026-03-26,2026-04-10,43381,Yes,Under Treatment,15
+1022,Chaaya Kunda,13,Female,General Medicine,Dr. Rao,Infection,2024-08-31,2024-09-04,145567,Yes,Under Treatment,4
+1023,Damini Nayak,4,Female,General Medicine,Dr. Sharma,Infection,2026-05-04,2026-05-13,129374,Yes,Recovered,9
+1024,Anya Dugar,70,Male,Orthopedics,Dr. Rao,Arthritis,2024-12-27,2025-01-07,10524,No,Under Treatment,11
+1025,Triya Banerjee,57,Male,Cardiology,Dr. Singh,Heart Disease,2026-03-21,2026-03-28,103913,Yes,Under Treatment,7
+1026,Chatresh Nigam,33,Male,Orthopedics,Dr. Mehta,Arthritis,2026-02-03,2026-02-08,44892,Yes,Under Treatment,5
+1027,Gopal Kar,15,Male,Orthopedics,Dr. Patel,Arthritis,2025-07-02,2025-07-12,121497,Yes,Critical,10
+1028,Veda Sahota,61,Female,Cardiology,Dr. Patel,Arrhythmia,2024-10-14,2024-10-22,103712,Yes,Critical,8
+1029,Darsh Goda,10,Male,Neurology,Dr. Kumar,Migraine,2024-11-16,2024-11-28,90618,No,Under Treatment,12
+1030,Nathaniel Walla,35,Female,General Medicine,Dr. Sharma,Diabetes,2025-01-02,2025-01-03,67569,Yes,Critical,1
+1031,Meghana Krish,2,Male,Cardiology,Dr. Rao,Heart Disease,2025-06-28,2025-07-10,44057,No,Under Treatment,12
+1032,Charan Amble,85,Female,Dermatology,Dr. Patel,Eczema,2025-08-10,2025-08-19,139782,No,Recovered,9
+1033,Yochana Goyal,85,Female,Cardiology,Dr. Singh,Arrhythmia,2025-07-27,2025-08-06,30221,Yes,Critical,10
+1034,Widisha Balasubramanian,19,Female,Pediatrics,Dr. Kumar,Flu,2025-12-09,2025-12-22,147166,No,Recovered,13
+1035,Jagvi More,3,Female,Dermatology,Dr. Singh,Eczema,2025-01-01,2025-01-10,63510,No,Critical,9
+1036,Brijesh Nayak,56,Male,General Medicine,Dr. Sharma,Fever,2024-07-23,2024-08-03,90393,No,Critical,11
+1037,Anamika De,28,Male,General Medicine,Dr. Patel,Infection,2025-06-12,2025-06-20,77757,Yes,Under Treatment,8
+1038,Faqid Sekhon,76,Male,Orthopedics,Dr. Singh,Arthritis,2025-10-25,2025-10-30,123415,No,Under Treatment,5
+1039,Noah Gupta,78,Female,General Medicine,Dr. Rao,Diabetes,2024-09-16,2024-09-19,16963,No,Critical,3
+1040,Ubika Pillai,83,Female,General Medicine,Dr. Rao,Infection,2025-10-28,2025-10-30,92377,Yes,Recovered,2
+1041,Anthony Tata,30,Female,Orthopedics,Dr. Patel,Back Pain,2024-12-26,2025-01-05,52722,No,Under Treatment,10
+1042,Aradhana D’Alia,54,Male,Dermatology,Dr. Rao,Psoriasis,2025-04-17,2025-04-22,94864,Yes,Critical,5
+1043,Tara Narula,60,Female,Orthopedics,Dr. Patel,Fracture,2025-03-03,2025-03-17,55548,No,Under Treatment,14
+1044,Nisha Sen,74,Female,Orthopedics,Dr. Rao,Arthritis,2024-07-30,2024-08-14,111259,No,Recovered,15
+1045,Leela Bedi,7,Female,Neurology,Dr. Mehta,Epilepsy,2025-01-14,2025-01-26,142642,No,Critical,12
+1046,Ryan Brahmbhatt,74,Female,Orthopedics,Dr. Singh,Fracture,2025-04-29,2025-05-05,66820,Yes,Critical,6
+1047,Karan Bumb,32,Male,Neurology,Dr. Patel,Stroke,2025-08-21,2025-09-01,5136,No,Critical,11
+1048,Chanchal Nagar,19,Male,Dermatology,Dr. Rao,Skin Allergy,2025-07-16,2025-07-31,10505,No,Critical,15
+1049,Idika Loyal,46,Female,Pediatrics,Dr. Rao,Chickenpox,2025-08-16,2025-08-21,47613,Yes,Recovered,5
+1050,Rajata Sawhney,31,Male,Neurology,Dr. Kumar,Stroke,2024-10-16,2024-10-20,128442,Yes,Under Treatment,4
+1051,Rudra Talwar,29,Male,Pediatrics,Dr. Kumar,Asthma,2025-01-12,2025-01-21,23628,No,Recovered,9
+1052,Triveni Nadkarni,17,Male,General Medicine,Dr. Rao,Infection,2024-12-31,2025-01-07,116877,Yes,Under Treatment,7
+1053,Simon Dugal,2,Male,Dermatology,Dr. Mehta,Skin Allergy,2026-04-03,2026-04-07,98050,Yes,Recovered,4
+1054,Bhavini Acharya,27,Male,Orthopedics,Dr. Patel,Fracture,2024-11-13,2024-11-17,71224,Yes,Critical,4
+1055,Unni Vohra,85,Male,Pediatrics,Dr. Sharma,Asthma,2026-03-16,2026-03-22,91801,No,Critical,6
+1056,Janani Gopal,5,Male,Cardiology,Dr. Sharma,Hypertension,2026-04-16,2026-04-20,45673,No,Critical,4
+1057,Rushil Pathak,20,Male,Pediatrics,Dr. Rao,Chickenpox,2025-03-29,2025-03-31,80984,Yes,Under Treatment,2
+1058,Gautami Venkatesh,5,Female,General Medicine,Dr. Kumar,Infection,2025-07-31,2025-08-15,45114,Yes,Critical,15
+1059,Falguni Keer,87,Male,Orthopedics,Dr. Patel,Arthritis,2025-01-06,2025-01-08,146856,Yes,Under Treatment,2
+1060,Yashasvi Buch,29,Male,General Medicine,Dr. Singh,Fever,2026-05-03,2026-05-07,37713,No,Under Treatment,4
+1061,Deepa Bahl,79,Female,Neurology,Dr. Sharma,Epilepsy,2025-02-16,2025-02-21,136782,Yes,Under Treatment,5
+1062,Aarnav Seshadri,17,Female,General Medicine,Dr. Rao,Fever,2024-12-03,2024-12-18,41055,Yes,Recovered,15
+1063,Aarav Gola,19,Female,Neurology,Dr. Mehta,Stroke,2024-08-21,2024-08-26,11990,No,Critical,5
+1064,Libni Mand,9,Female,Orthopedics,Dr. Singh,Back Pain,2026-05-27,2026-06-07,138871,No,Recovered,11
+1065,Aahana Jayaraman,53,Male,Cardiology,Dr. Sharma,Hypertension,2025-09-22,2025-09-23,14472,No,Under Treatment,1
+1066,Ojas Deol,63,Female,Pediatrics,Dr. Kumar,Chickenpox,2026-01-02,2026-01-08,62092,No,Recovered,6
+1067,Kiaan Palan,9,Male,Dermatology,Dr. Kumar,Psoriasis,2025-07-03,2025-07-11,103000,No,Recovered,8
+1068,Saumya Uppal,38,Male,Dermatology,Dr. Mehta,Skin Allergy,2025-06-28,2025-07-08,97138,Yes,Recovered,10
+1069,Bina Raju,53,Female,Neurology,Dr. Sharma,Migraine,2024-09-20,2024-09-24,122736,Yes,Recovered,4
+1070,Nicholas Ratti,25,Female,General Medicine,Dr. Patel,Infection,2025-04-06,2025-04-20,66928,No,Critical,14
+1071,Radhika Kurian,14,Female,Dermatology,Dr. Rao,Psoriasis,2025-11-20,2025-11-28,126883,Yes,Under Treatment,8
+1072,Sudiksha Borra,51,Female,Dermatology,Dr. Rao,Psoriasis,2024-09-04,2024-09-09,9318,Yes,Under Treatment,5
+1073,Nimrat Patel,41,Female,Cardiology,Dr. Singh,Hypertension,2025-04-01,2025-04-07,134020,Yes,Recovered,6
+1074,Baljiwan Agarwal,42,Male,Neurology,Dr. Kumar,Migraine,2025-02-14,2025-02-17,104891,Yes,Under Treatment,3
+1075,Anvi Gopal,35,Female,Cardiology,Dr. Kumar,Hypertension,2025-07-17,2025-07-20,103458,No,Critical,3
+1076,Fitan Mitra,79,Male,Neurology,Dr. Singh,Stroke,2025-04-22,2025-05-05,32001,Yes,Under Treatment,13
+1077,Balhaar Lad,21,Female,Dermatology,Dr. Rao,Eczema,2024-09-17,2024-09-21,14886,No,Critical,4
+1078,Praneel More,9,Female,General Medicine,Dr. Mehta,Fever,2025-12-08,2025-12-23,113693,Yes,Under Treatment,15
+1079,Samarth Sankar,38,Female,Dermatology,Dr. Sharma,Psoriasis,2026-05-01,2026-05-13,39654,Yes,Critical,12
+1080,Ria Shenoy,60,Male,Cardiology,Dr. Patel,Arrhythmia,2025-11-12,2025-11-16,149436,No,Recovered,4
+1081,Daksha Sachdeva,30,Female,Dermatology,Dr. Mehta,Psoriasis,2026-04-27,2026-05-12,112407,No,Critical,15
+1082,Dalbir Gara,90,Male,Orthopedics,Dr. Singh,Back Pain,2025-09-12,2025-09-17,82186,No,Recovered,5
+1083,Ijaya Sarin,72,Male,Dermatology,Dr. Singh,Eczema,2025-11-28,2025-11-29,124803,No,Under Treatment,1
+1084,Yasti Sengupta,76,Female,Dermatology,Dr. Rao,Skin Allergy,2025-08-20,2025-08-21,25143,Yes,Critical,1
+1085,Yug Sachdev,83,Male,Orthopedics,Dr. Patel,Fracture,2025-05-24,2025-05-25,98822,Yes,Critical,1
+1086,Veda Shetty,25,Male,Neurology,Dr. Sharma,Epilepsy,2024-07-03,2024-07-06,63486,Yes,Under Treatment,3
+1087,Yashawini Hayer,51,Male,General Medicine,Dr. Rao,Fever,2025-07-04,2025-07-06,47899,Yes,Critical,2
+1088,Netra Samra,59,Male,Neurology,Dr. Sharma,Stroke,2025-10-04,2025-10-06,21773,Yes,Critical,2
+1089,Simon Chandran,13,Female,Dermatology,Dr. Sharma,Skin Allergy,2025-03-08,2025-03-12,117900,Yes,Critical,4
+1090,Darika Ray,8,Male,General Medicine,Dr. Patel,Fever,2024-10-17,2024-10-27,145957,Yes,Critical,10
+1091,Zashil Sandal,69,Male,Dermatology,Dr. Mehta,Psoriasis,2025-07-28,2025-08-12,67335,No,Under Treatment,15
+1092,Krishna Chaudhuri,76,Female,Neurology,Dr. Singh,Epilepsy,2025-12-10,2025-12-12,7019,No,Under Treatment,2
+1093,Michael Memon,39,Male,Cardiology,Dr. Mehta,Hypertension,2025-09-12,2025-09-13,123708,Yes,Critical,1
+1094,Upasna Gandhi,38,Male,Cardiology,Dr. Rao,Arrhythmia,2024-10-03,2024-10-06,28539,Yes,Recovered,3
+1095,Odika Chakrabarti,47,Male,Orthopedics,Dr. Singh,Fracture,2025-08-02,2025-08-10,100723,No,Under Treatment,8
+1096,Siddharth Bahri,34,Female,Neurology,Dr. Sharma,Epilepsy,2025-12-31,2026-01-10,124466,Yes,Critical,10
+1097,Reyansh Balay,12,Female,Pediatrics,Dr. Sharma,Chickenpox,2025-05-20,2025-05-30,50028,Yes,Recovered,10
+1098,Neel Dyal,50,Female,Dermatology,Dr. Rao,Psoriasis,2026-06-15,2026-06-19,59039,Yes,Critical,4
+1099,Yashvi Kant,26,Male,Orthopedics,Dr. Sharma,Arthritis,2026-01-29,2026-02-08,57328,Yes,Critical,10
+1100,Lopa Agate,7,Female,Dermatology,Dr. Mehta,Eczema,2026-03-31,2026-04-12,96872,Yes,Under Treatment,12
+1101,Varsha Mukhopadhyay,46,Male,Orthopedics,Dr. Patel,Back Pain,2026-03-31,2026-04-08,59652,Yes,Critical,8
+1102,Dayita Mangal,29,Male,Dermatology,Dr. Patel,Skin Allergy,2024-07-29,2024-07-31,60941,No,Critical,2
+1103,Rishi Taneja,8,Female,Orthopedics,Dr. Kumar,Arthritis,2024-09-13,2024-09-16,28029,Yes,Recovered,3
+1104,Jason Vora,59,Male,Dermatology,Dr. Singh,Psoriasis,2026-05-06,2026-05-13,133894,No,Recovered,7
+1105,Jonathan Mody,33,Male,Pediatrics,Dr. Patel,Asthma,2025-05-29,2025-06-06,122620,Yes,Critical,8
+1106,Ubika Hans,5,Male,Orthopedics,Dr. Mehta,Fracture,2026-06-13,2026-06-28,21508,Yes,Recovered,15
+1107,Vinaya Gupta,61,Female,Neurology,Dr. Rao,Migraine,2026-02-02,2026-02-09,78916,Yes,Recovered,7
+1108,Reva Raja,88,Female,Dermatology,Dr. Patel,Psoriasis,2026-06-21,2026-06-24,67843,Yes,Under Treatment,3
+1109,Kritika Mandal,26,Female,Cardiology,Dr. Mehta,Hypertension,2024-09-03,2024-09-05,84559,Yes,Critical,2
+1110,Daniel Shenoy,25,Female,Dermatology,Dr. Kumar,Eczema,2025-05-19,2025-05-27,62670,Yes,Under Treatment,8
+1111,Laksh Sarkar,37,Male,General Medicine,Dr. Mehta,Diabetes,2025-07-27,2025-08-10,53079,Yes,Recovered,14
+1112,Omya Ratti,5,Male,Orthopedics,Dr. Sharma,Arthritis,2025-04-21,2025-04-27,23350,Yes,Under Treatment,6
+1113,Advaith Johal,37,Female,Orthopedics,Dr. Singh,Fracture,2025-06-14,2025-06-15,33763,No,Under Treatment,1
+1114,Omkaar Issac,78,Female,Orthopedics,Dr. Mehta,Back Pain,2025-11-14,2025-11-20,99592,No,Recovered,6
+1115,Simon Bhandari,75,Male,Orthopedics,Dr. Patel,Back Pain,2025-01-11,2025-01-21,46636,Yes,Under Treatment,10
+1116,Hritik Sekhon,85,Female,Orthopedics,Dr. Mehta,Back Pain,2025-12-27,2026-01-06,17524,No,Critical,10
+1117,Christopher Pandya,62,Male,Cardiology,Dr. Rao,Heart Disease,2025-04-02,2025-04-06,49217,No,Recovered,4
+1118,Vansha Mukhopadhyay,12,Male,General Medicine,Dr. Sharma,Fever,2025-11-02,2025-11-10,110584,No,Critical,8
+1119,Finn Ratti,79,Female,Cardiology,Dr. Rao,Hypertension,2026-01-21,2026-01-31,25342,Yes,Under Treatment,10
+1120,Saanvi Mangat,54,Female,Neurology,Dr. Mehta,Migraine,2025-03-28,2025-04-11,92354,Yes,Critical,14
+1121,Omya Narayanan,4,Male,Neurology,Dr. Sharma,Epilepsy,2025-12-31,2026-01-11,7513,No,Critical,11
+1122,Rohan Sibal,57,Female,Orthopedics,Dr. Patel,Back Pain,2026-01-19,2026-01-27,121815,No,Under Treatment,8
+1123,Michael Soni,90,Male,Pediatrics,Dr. Mehta,Asthma,2024-10-28,2024-11-05,67039,No,Critical,8
+1124,Nikita Dhillon,69,Female,General Medicine,Dr. Rao,Infection,2025-10-16,2025-10-26,43183,No,Recovered,10
+1125,Nilima Goel,3,Male,General Medicine,Dr. Patel,Fever,2025-12-29,2026-01-13,42586,Yes,Recovered,15
+1126,Jeremiah Kapur,17,Male,Orthopedics,Dr. Rao,Fracture,2024-11-14,2024-11-22,74152,No,Critical,8
+1127,Unni Virk,20,Male,Orthopedics,Dr. Singh,Fracture,2025-10-14,2025-10-26,7882,Yes,Under Treatment,12
+1128,Theodore Pall,78,Male,Dermatology,Dr. Kumar,Psoriasis,2024-12-11,2024-12-12,118222,Yes,Recovered,1
+1129,Vidhi Rout,44,Female,Orthopedics,Dr. Patel,Back Pain,2024-10-19,2024-11-03,84936,Yes,Recovered,15
+1130,Rohan Banik,35,Male,General Medicine,Dr. Rao,Fever,2025-10-12,2025-10-27,145012,No,Recovered,15
+1131,Sneha Chandra,21,Male,Orthopedics,Dr. Mehta,Arthritis,2025-09-01,2025-09-08,66602,Yes,Critical,7
+1132,Atharv Cherian,54,Male,Cardiology,Dr. Mehta,Hypertension,2025-01-31,2025-02-01,8283,Yes,Critical,1
+1133,Leela Majumdar,29,Female,Dermatology,Dr. Sharma,Psoriasis,2024-10-15,2024-10-19,76558,No,Critical,4
+1134,George Thakur,72,Female,Neurology,Dr. Sharma,Epilepsy,2025-12-02,2025-12-11,144006,No,Under Treatment,9
+1135,Mitesh Kalla,20,Male,Neurology,Dr. Sharma,Epilepsy,2025-03-21,2025-03-27,72407,No,Critical,6
+1136,Girindra Kashyap,79,Male,Neurology,Dr. Kumar,Migraine,2026-01-06,2026-01-15,80072,Yes,Recovered,9
+1137,George Varughese,22,Male,General Medicine,Dr. Singh,Diabetes,2026-05-28,2026-06-01,125882,No,Critical,4
+1138,Madhav Parmer,12,Female,Neurology,Dr. Kumar,Migraine,2024-12-22,2024-12-31,146465,Yes,Under Treatment,9
+1139,Ronith Balan,77,Male,Pediatrics,Dr. Patel,Asthma,2025-09-13,2025-09-19,55219,No,Critical,6
+1140,Yochana Nayar,58,Male,Cardiology,Dr. Patel,Hypertension,2025-03-16,2025-03-18,133405,No,Recovered,2
+1141,Indrajit Din,56,Female,General Medicine,Dr. Mehta,Diabetes,2024-12-27,2024-12-30,29637,Yes,Under Treatment,3
+1142,Sanya Nayak,3,Male,Dermatology,Dr. Singh,Eczema,2026-06-07,2026-06-20,125381,No,Recovered,13
+1143,Yochana Issac,41,Male,Neurology,Dr. Kumar,Stroke,2025-12-28,2026-01-05,45855,No,Under Treatment,8
+1144,Zarna Kunda,26,Female,Pediatrics,Dr. Patel,Chickenpox,2025-07-22,2025-08-06,103529,No,Under Treatment,15
+1145,Amruta Ram,54,Female,Dermatology,Dr. Mehta,Eczema,2026-04-04,2026-04-06,29687,Yes,Under Treatment,2
+1146,Aadhya Ranganathan,19,Female,Cardiology,Dr. Rao,Heart Disease,2026-02-25,2026-03-06,87061,No,Under Treatment,9
+1147,Ganga Krish,9,Female,Cardiology,Dr. Kumar,Heart Disease,2025-05-13,2025-05-26,85809,No,Recovered,13
+1148,Isha Apte,4,Female,Pediatrics,Dr. Kumar,Flu,2025-01-30,2025-02-12,23753,No,Recovered,13
+1149,Eta Aurora,41,Female,General Medicine,Dr. Kumar,Diabetes,2026-02-09,2026-02-14,135448,Yes,Recovered,5
+1150,Charvi Deo,38,Male,Neurology,Dr. Singh,Migraine,2025-05-23,2025-06-02,146269,Yes,Critical,10
+1151,Triya Dhaliwal,58,Male,General Medicine,Dr. Rao,Diabetes,2025-10-08,2025-10-23,133159,No,Critical,15
+1152,Praneel Bose,45,Male,Cardiology,Dr. Rao,Heart Disease,2025-10-03,2025-10-07,43686,Yes,Under Treatment,4
+1153,Dayamai Pandit,14,Male,Dermatology,Dr. Rao,Psoriasis,2025-10-11,2025-10-24,84657,No,Under Treatment,13
+1154,Max Mohan,12,Female,Dermatology,Dr. Patel,Eczema,2025-01-12,2025-01-16,131158,No,Critical,4
+1155,Umang Deep,4,Male,Neurology,Dr. Patel,Stroke,2024-10-18,2024-10-24,133798,Yes,Under Treatment,6
+1156,Samuel Shankar,19,Female,Orthopedics,Dr. Singh,Fracture,2025-08-17,2025-08-28,128208,No,Recovered,11
+1157,Ishaan Ravi,23,Female,Neurology,Dr. Kumar,Migraine,2025-08-13,2025-08-25,8151,Yes,Critical,12
+1158,Balendra Sankaran,74,Female,Orthopedics,Dr. Sharma,Arthritis,2024-10-17,2024-10-18,39899,Yes,Under Treatment,1
+1159,Indrajit Chandran,63,Male,Neurology,Dr. Sharma,Stroke,2024-11-10,2024-11-11,148558,No,Recovered,1
+1160,Brijesh Nagy,90,Male,General Medicine,Dr. Singh,Fever,2024-10-11,2024-10-24,50809,Yes,Under Treatment,13
+1161,Neelima Mittal,51,Male,Pediatrics,Dr. Mehta,Flu,2025-09-24,2025-09-26,124145,No,Critical,2
+1162,Janani Dugar,50,Male,Cardiology,Dr. Singh,Arrhythmia,2024-12-14,2024-12-24,132833,Yes,Critical,10
+1163,Nachiket Goda,7,Male,General Medicine,Dr. Singh,Infection,2025-11-24,2025-12-01,26783,No,Recovered,7
+1164,Rachana Deep,51,Male,Pediatrics,Dr. Rao,Asthma,2025-03-24,2025-03-26,132175,No,Recovered,2
+1165,Geetika Srivastava,67,Male,Pediatrics,Dr. Rao,Chickenpox,2025-06-09,2025-06-11,38635,Yes,Critical,2
+1166,Abha Pai,40,Male,Orthopedics,Dr. Patel,Arthritis,2025-08-27,2025-09-08,8594,No,Recovered,12
+1167,Lila Lata,50,Male,Pediatrics,Dr. Patel,Flu,2025-10-19,2025-10-23,51393,No,Under Treatment,4
+1168,Ira Jain,77,Male,Pediatrics,Dr. Kumar,Asthma,2025-12-09,2025-12-11,59727,No,Under Treatment,2
+1169,Harshil Kaur,42,Male,Pediatrics,Dr. Singh,Flu,2025-02-08,2025-02-18,66561,No,Under Treatment,10
+1170,Viraj Warrior,60,Female,Cardiology,Dr. Mehta,Arrhythmia,2026-04-07,2026-04-11,139826,Yes,Recovered,4
+1171,Vanya Chander,10,Female,Orthopedics,Dr. Mehta,Arthritis,2025-10-21,2025-10-23,93526,Yes,Critical,2
+1172,Jackson Banik,32,Male,Dermatology,Dr. Sharma,Psoriasis,2025-11-27,2025-12-03,18475,No,Recovered,6
+1173,Suhani Mohan,56,Male,Cardiology,Dr. Patel,Hypertension,2025-01-21,2025-01-29,59201,Yes,Recovered,8
+1174,Upadhriti Barman,32,Male,Neurology,Dr. Sharma,Stroke,2025-07-03,2025-07-15,116479,Yes,Recovered,12
+1175,Yuvraj Sheth,39,Male,General Medicine,Dr. Rao,Diabetes,2024-09-29,2024-10-07,121210,Yes,Critical,8
+1176,Osha Contractor,6,Female,Orthopedics,Dr. Rao,Back Pain,2026-03-18,2026-04-02,21912,No,Recovered,15
+1177,Libni Nori,11,Male,Orthopedics,Dr. Sharma,Arthritis,2024-10-21,2024-11-05,27458,Yes,Under Treatment,15
+1178,Yug Kothari,6,Male,Neurology,Dr. Kumar,Epilepsy,2025-09-10,2025-09-21,54409,No,Under Treatment,11
+1179,Vaishnavi Babu,19,Male,Neurology,Dr. Singh,Stroke,2026-01-18,2026-01-20,14993,No,Critical,2
+1180,Ati Bali,85,Female,Dermatology,Dr. Kumar,Eczema,2025-07-13,2025-07-15,63180,Yes,Critical,2
+1181,Yashoda Dara,68,Male,Orthopedics,Dr. Kumar,Fracture,2024-07-21,2024-07-27,122422,No,Critical,6
+1182,Shivani Hari,21,Male,Dermatology,Dr. Singh,Psoriasis,2026-02-13,2026-02-20,141368,Yes,Recovered,7
+1183,Fariq Murty,43,Male,Orthopedics,Dr. Mehta,Back Pain,2025-09-09,2025-09-15,47453,No,Under Treatment,6
+1184,Vrishti Tara,13,Female,Dermatology,Dr. Kumar,Skin Allergy,2024-11-13,2024-11-19,108724,Yes,Recovered,6
+1185,Yashoda Sunder,1,Male,Neurology,Dr. Sharma,Epilepsy,2024-10-05,2024-10-09,97774,No,Critical,4
+1186,Balvan Rajagopal,78,Female,Dermatology,Dr. Singh,Eczema,2025-02-02,2025-02-14,19025,Yes,Under Treatment,12
+1187,Ryan Madan,89,Male,Cardiology,Dr. Singh,Arrhythmia,2025-04-28,2025-05-07,18814,No,Recovered,9
+1188,Liam Varkey,78,Male,Pediatrics,Dr. Kumar,Chickenpox,2025-09-30,2025-10-09,94751,Yes,Under Treatment,9
+1189,Bakhshi Deshpande,86,Male,General Medicine,Dr. Rao,Fever,2026-02-09,2026-02-12,124753,Yes,Critical,3
+1190,Jeet Borde,21,Female,Dermatology,Dr. Mehta,Psoriasis,2025-07-21,2025-08-03,127738,No,Under Treatment,13
+1191,Xiti Basu,12,Female,Pediatrics,Dr. Singh,Asthma,2025-07-14,2025-07-23,57983,No,Under Treatment,9
+1192,Aarav Tara,8,Male,Cardiology,Dr. Mehta,Heart Disease,2025-01-26,2025-02-10,36505,Yes,Critical,15
+1193,Ria Mann,76,Female,Cardiology,Dr. Singh,Hypertension,2026-05-29,2026-06-11,42588,Yes,Under Treatment,13
+1194,Nitara Kamdar,49,Male,Orthopedics,Dr. Kumar,Back Pain,2025-11-05,2025-11-17,83611,No,Critical,12
+1195,Warhi Sood,57,Female,Cardiology,Dr. Kumar,Arrhythmia,2025-08-05,2025-08-17,129806,No,Under Treatment,12
+1196,Brinda Bal,58,Female,Cardiology,Dr. Rao,Hypertension,2025-07-05,2025-07-13,28825,Yes,Critical,8
+1197,Triveni Bala,86,Female,Cardiology,Dr. Mehta,Arrhythmia,2024-11-13,2024-11-28,93546,Yes,Under Treatment,15
+1198,Daksh Hora,81,Female,Orthopedics,Dr. Singh,Back Pain,2025-04-05,2025-04-06,53576,Yes,Critical,1
+1199,Nitara Ramanathan,29,Male,Cardiology,Dr. Patel,Heart Disease,2025-09-08,2025-09-15,37116,No,Recovered,7
+1200,Ishwar Ratti,1,Male,Neurology,Dr. Sharma,Stroke,2025-02-25,2025-02-26,126315,No,Recovered,1
+1201,Abdul Brahmbhatt,43,Female,Dermatology,Dr. Singh,Eczema,2024-12-23,2025-01-06,72627,Yes,Under Treatment,14
+1202,Teerth Chopra,13,Male,Dermatology,Dr. Kumar,Skin Allergy,2025-08-06,2025-08-21,139771,Yes,Recovered,15
+1203,Zaid Kaul,82,Male,Pediatrics,Dr. Kumar,Chickenpox,2024-12-07,2024-12-14,58454,Yes,Under Treatment,7
+1204,Yoshita Chana,5,Female,Neurology,Dr. Rao,Migraine,2026-04-06,2026-04-15,90625,Yes,Under Treatment,9
+1205,Leena Bhatnagar,74,Female,General Medicine,Dr. Rao,Infection,2025-02-23,2025-03-07,117367,Yes,Under Treatment,12
+1206,Harini Panchal,81,Female,Pediatrics,Dr. Singh,Asthma,2024-07-02,2024-07-12,87932,Yes,Critical,10
+1207,Tripti Mane,81,Female,Dermatology,Dr. Sharma,Skin Allergy,2025-08-22,2025-08-27,147078,No,Under Treatment,5
+1208,Frederick Chander,62,Female,Orthopedics,Dr. Sharma,Back Pain,2026-06-18,2026-06-23,95207,Yes,Recovered,5
+1209,Waida Bawa,20,Male,Cardiology,Dr. Sharma,Hypertension,2026-02-16,2026-02-18,105720,Yes,Recovered,2
+1210,Amruta Raman,6,Male,Neurology,Dr. Mehta,Migraine,2025-04-27,2025-04-30,115547,Yes,Recovered,3
+1211,Akshay Raval,12,Female,Pediatrics,Dr. Singh,Flu,2025-05-14,2025-05-15,17386,Yes,Under Treatment,1
+1212,Tanvi Palla,50,Male,Neurology,Dr. Rao,Stroke,2025-02-24,2025-03-02,34100,No,Under Treatment,6
+1213,Vedant Kala,81,Male,Neurology,Dr. Rao,Epilepsy,2025-11-14,2025-11-20,130443,No,Critical,6
+1214,Xalak Iyer,49,Male,Orthopedics,Dr. Sharma,Fracture,2025-02-28,2025-03-06,66025,Yes,Critical,6
+1215,Aayush Mani,45,Male,General Medicine,Dr. Sharma,Diabetes,2025-08-10,2025-08-14,34526,No,Critical,4
+1216,Gaurang Lal,77,Male,Pediatrics,Dr. Mehta,Chickenpox,2024-10-08,2024-10-12,47511,Yes,Recovered,4
+1217,Farhan Raman,58,Female,Pediatrics,Dr. Sharma,Flu,2025-11-22,2025-11-26,106254,No,Under Treatment,4
+1218,Azaan Ratta,10,Male,General Medicine,Dr. Singh,Infection,2025-07-07,2025-07-15,10902,Yes,Recovered,8
+1219,Harinakshi Buch,69,Male,Neurology,Dr. Singh,Epilepsy,2025-08-30,2025-09-05,121753,No,Recovered,6
+1220,Aishani Bains,77,Female,Dermatology,Dr. Patel,Psoriasis,2024-07-05,2024-07-09,20694,No,Recovered,4
+1221,Gaurav Setty,80,Female,Pediatrics,Dr. Sharma,Flu,2025-12-02,2025-12-05,34407,Yes,Under Treatment,3
+1222,Nakul Pau,61,Male,Orthopedics,Dr. Mehta,Fracture,2025-07-09,2025-07-13,87624,Yes,Critical,4
+1223,Abeer Pai,24,Female,Neurology,Dr. Sharma,Stroke,2025-03-28,2025-03-30,113031,No,Under Treatment,2
+1224,Jhalak Vora,45,Male,Orthopedics,Dr. Kumar,Back Pain,2024-11-03,2024-11-17,142634,No,Critical,14
+1225,Anya Choudhury,7,Female,General Medicine,Dr. Kumar,Fever,2025-04-03,2025-04-11,24489,No,Critical,8
+1226,Maanas Dhar,82,Male,General Medicine,Dr. Sharma,Diabetes,2026-03-17,2026-03-21,118677,No,Recovered,4
+1227,Aadi Balay,44,Female,General Medicine,Dr. Mehta,Infection,2026-04-28,2026-05-04,96259,No,Critical,6
+1228,Vihaan Narang,85,Female,Dermatology,Dr. Patel,Skin Allergy,2026-02-08,2026-02-18,34962,Yes,Under Treatment,10
+1229,Lekha Setty,47,Female,Neurology,Dr. Patel,Epilepsy,2026-02-13,2026-02-26,120395,Yes,Recovered,13
+1230,Advika Doshi,53,Female,Cardiology,Dr. Singh,Arrhythmia,2026-02-18,2026-02-20,44238,Yes,Under Treatment,2
+1231,Fitan Singh,32,Female,Dermatology,Dr. Kumar,Psoriasis,2026-01-03,2026-01-12,41416,No,Under Treatment,9
+1232,Gautami Dave,30,Female,Neurology,Dr. Patel,Migraine,2026-06-04,2026-06-19,129455,Yes,Recovered,15
+1233,Vedhika Brahmbhatt,66,Male,Cardiology,Dr. Rao,Arrhythmia,2025-12-22,2026-01-05,5001,Yes,Critical,14
+1234,Nirja Om,65,Male,Neurology,Dr. Rao,Epilepsy,2025-05-14,2025-05-27,101566,Yes,Critical,13
+1235,Bachittar Sem,7,Male,Pediatrics,Dr. Kumar,Chickenpox,2024-07-05,2024-07-07,19886,Yes,Recovered,2
+1236,Nihal Chakrabarti,80,Male,General Medicine,Dr. Singh,Diabetes,2024-06-29,2024-07-07,81943,Yes,Critical,8
+1237,Tripti Manda,6,Male,General Medicine,Dr. Patel,Fever,2024-12-01,2024-12-13,34381,Yes,Recovered,12
+1238,Anika Sahota,71,Female,Pediatrics,Dr. Patel,Flu,2026-02-22,2026-03-03,110979,No,Under Treatment,9
+1239,Arya Dayal,27,Female,Cardiology,Dr. Singh,Arrhythmia,2025-10-18,2025-10-31,129605,Yes,Under Treatment,13
+1240,Brijesh Dayal,49,Female,Cardiology,Dr. Sharma,Hypertension,2026-04-08,2026-04-10,76166,Yes,Recovered,2
+1241,Leela Thakur,3,Male,General Medicine,Dr. Mehta,Fever,2026-03-06,2026-03-19,60191,Yes,Under Treatment,13
+1242,Rayaan Dayal,81,Female,Orthopedics,Dr. Sharma,Fracture,2025-06-27,2025-07-01,26152,Yes,Recovered,4
+1243,Warda Hora,46,Male,Pediatrics,Dr. Kumar,Flu,2025-06-13,2025-06-22,69554,No,Recovered,9
+1244,Dipta Raja,21,Female,Cardiology,Dr. Sharma,Hypertension,2024-09-25,2024-09-27,125694,Yes,Critical,2
+1245,Alka Aggarwal,68,Male,Orthopedics,Dr. Sharma,Arthritis,2026-04-11,2026-04-20,88389,Yes,Recovered,9
+1246,Anya Chada,48,Female,General Medicine,Dr. Kumar,Diabetes,2025-04-27,2025-05-07,37619,Yes,Critical,10
+1247,Kavya Krishna,39,Male,Cardiology,Dr. Mehta,Hypertension,2025-07-18,2025-07-26,28194,Yes,Recovered,8
+1248,Vasatika Randhawa,33,Female,Neurology,Dr. Mehta,Stroke,2024-08-12,2024-08-17,72185,No,Critical,5
+1249,Harini Kala,52,Female,Dermatology,Dr. Mehta,Eczema,2026-01-20,2026-01-29,109254,No,Critical,9
+1250,Nilima Dhar,9,Male,Cardiology,Dr. Mehta,Hypertension,2025-12-17,2025-12-26,112882,No,Recovered,9
+1251,Arya Sehgal,54,Male,General Medicine,Dr. Sharma,Fever,2026-04-17,2026-04-19,116015,No,Critical,2
+1252,Dalaja Pai,36,Female,Dermatology,Dr. Mehta,Psoriasis,2025-08-22,2025-08-29,87967,Yes,Recovered,7
+1253,Widisha Dave,35,Female,Neurology,Dr. Sharma,Migraine,2024-11-16,2024-11-28,25319,No,Critical,12
+1254,Luke Khurana,6,Male,Cardiology,Dr. Singh,Heart Disease,2025-04-24,2025-04-27,125893,No,Critical,3
+1255,Falguni Rajagopalan,31,Female,Pediatrics,Dr. Sharma,Asthma,2025-11-21,2025-12-03,49084,Yes,Recovered,12
+1256,Mohammed Sidhu,84,Male,Pediatrics,Dr. Mehta,Chickenpox,2024-12-21,2024-12-23,17636,Yes,Recovered,2
+1257,Kamya Bhasin,83,Female,Pediatrics,Dr. Rao,Flu,2024-09-09,2024-09-19,15946,Yes,Recovered,10
+1258,Bhavya Arora,52,Female,Cardiology,Dr. Singh,Heart Disease,2025-06-15,2025-06-18,80172,No,Recovered,3
+1259,Krishna Karnik,80,Male,Pediatrics,Dr. Patel,Flu,2025-02-19,2025-02-26,100261,Yes,Recovered,7
+1260,Tejas Rajan,58,Female,Orthopedics,Dr. Sharma,Back Pain,2025-12-04,2025-12-09,135552,No,Under Treatment,5
+1261,Umang Madan,81,Female,General Medicine,Dr. Sharma,Diabetes,2024-12-17,2024-12-20,149985,Yes,Under Treatment,3
+1262,Yashoda Sami,68,Female,Cardiology,Dr. Sharma,Hypertension,2025-01-03,2025-01-16,59944,Yes,Critical,13
+1263,Advaith Bala,10,Male,Neurology,Dr. Patel,Epilepsy,2025-11-30,2025-12-10,120918,Yes,Critical,10
+1264,Anirudh Atwal,20,Female,Cardiology,Dr. Kumar,Hypertension,2025-08-22,2025-08-28,114833,No,Critical,6
+1265,Nimrat Sarkar,56,Female,Cardiology,Dr. Mehta,Hypertension,2025-03-27,2025-04-05,12872,Yes,Critical,9
+1266,Bhavika Parekh,44,Male,Pediatrics,Dr. Mehta,Asthma,2025-06-03,2025-06-09,126629,No,Critical,6
+1267,Robert Wagle,65,Male,Orthopedics,Dr. Patel,Fracture,2026-02-06,2026-02-18,129979,No,Critical,12
+1268,Samar Varkey,87,Female,Orthopedics,Dr. Singh,Arthritis,2025-04-11,2025-04-25,138435,No,Under Treatment,14
+1269,Meghana Pingle,82,Male,Pediatrics,Dr. Singh,Flu,2026-01-01,2026-01-04,64482,Yes,Recovered,3
+1270,Udyati Sharaf,6,Male,Orthopedics,Dr. Rao,Back Pain,2026-04-24,2026-05-06,95811,No,Critical,12
+1271,Xalak Vora,44,Male,Orthopedics,Dr. Patel,Back Pain,2026-04-07,2026-04-16,19634,Yes,Recovered,9
+1272,Samar Grewal,45,Male,Neurology,Dr. Mehta,Migraine,2025-04-17,2025-04-24,89267,Yes,Under Treatment,7
+1273,Pushti Behl,41,Female,Pediatrics,Dr. Kumar,Asthma,2026-03-17,2026-03-30,51076,Yes,Recovered,13
+1274,Charles Walia,64,Male,Pediatrics,Dr. Mehta,Chickenpox,2026-06-17,2026-06-27,89862,Yes,Recovered,10
+1275,Jonathan Sarma,19,Male,General Medicine,Dr. Patel,Infection,2024-10-17,2024-10-24,109565,Yes,Critical,7
+1276,Yamini Kalita,85,Male,Orthopedics,Dr. Patel,Back Pain,2025-05-20,2025-05-25,76000,No,Recovered,5
+1277,Rajeshri Madan,48,Female,Orthopedics,Dr. Sharma,Arthritis,2025-12-09,2025-12-18,126598,Yes,Critical,9
+1278,Mugdha Hegde,39,Female,Pediatrics,Dr. Singh,Asthma,2025-06-09,2025-06-22,22047,Yes,Recovered,13
+1279,Warjas Balan,33,Female,Cardiology,Dr. Rao,Arrhythmia,2024-11-06,2024-11-21,42599,Yes,Under Treatment,15
+1280,Waida Rao,50,Female,General Medicine,Dr. Singh,Infection,2025-12-18,2025-12-28,86272,No,Critical,10
+1281,Siddharth Basak,39,Male,General Medicine,Dr. Singh,Infection,2025-02-11,2025-02-14,97127,Yes,Under Treatment,3
+1282,Baljiwan Chana,22,Female,Neurology,Dr. Mehta,Epilepsy,2024-12-31,2025-01-04,142375,No,Critical,4
+1283,Joshua Loyal,69,Female,Neurology,Dr. Kumar,Epilepsy,2024-09-07,2024-09-10,142260,Yes,Recovered,3
+1284,Girish Malhotra,26,Male,Pediatrics,Dr. Patel,Asthma,2025-09-01,2025-09-05,101182,No,Recovered,4
+1285,Luke Buch,33,Male,Cardiology,Dr. Singh,Hypertension,2024-11-04,2024-11-12,135542,Yes,Critical,8
+1286,Chanchal Sanghvi,64,Female,Neurology,Dr. Singh,Migraine,2025-05-18,2025-05-22,73220,No,Critical,4
+1287,Aashi Chana,74,Female,Cardiology,Dr. Sharma,Heart Disease,2024-09-27,2024-09-29,66255,Yes,Critical,2
+1288,Girish De,77,Female,Dermatology,Dr. Kumar,Eczema,2024-11-27,2024-12-06,30031,No,Recovered,9
+1289,Hemang Wali,26,Male,Neurology,Dr. Kumar,Stroke,2025-11-07,2025-11-15,69190,No,Under Treatment,8
+1290,Chatura Patla,20,Female,Neurology,Dr. Rao,Migraine,2025-04-26,2025-04-27,13045,No,Under Treatment,1
+1291,Zayyan Toor,76,Male,Cardiology,Dr. Kumar,Arrhythmia,2026-04-30,2026-05-13,70925,Yes,Under Treatment,13
+1292,Abhiram Kalla,88,Female,Cardiology,Dr. Singh,Hypertension,2025-10-26,2025-11-06,99283,No,Recovered,11
+1293,Pranit Bera,19,Male,Pediatrics,Dr. Kumar,Asthma,2024-10-18,2024-10-25,16887,No,Critical,7
+1294,Lucky Chaudhary,39,Female,Cardiology,Dr. Sharma,Heart Disease,2025-03-06,2025-03-10,41043,Yes,Recovered,4
+1295,Arya Korpal,66,Female,Pediatrics,Dr. Sharma,Asthma,2026-01-12,2026-01-13,20261,Yes,Under Treatment,1
+1296,Inaya Sankaran,77,Male,Dermatology,Dr. Rao,Skin Allergy,2026-02-02,2026-02-15,6799,Yes,Under Treatment,13
+1297,Manya Gill,46,Male,Orthopedics,Dr. Mehta,Fracture,2024-06-22,2024-06-26,134095,Yes,Recovered,4
+1298,Garima Mann,57,Male,Orthopedics,Dr. Mehta,Arthritis,2025-04-04,2025-04-08,6974,Yes,Critical,4
+1299,Wahab Johal,38,Female,Dermatology,Dr. Kumar,Skin Allergy,2026-03-02,2026-03-09,112242,Yes,Critical,7
+1300,Gayathri Batra,82,Female,Dermatology,Dr. Rao,Skin Allergy,2024-07-20,2024-07-26,9724,Yes,Under Treatment,6
+1301,Waida Bhatia,47,Male,Cardiology,Dr. Patel,Hypertension,2025-07-14,2025-07-15,57832,Yes,Critical,1
+1302,Ganga Tripathi,56,Female,Neurology,Dr. Mehta,Migraine,2025-12-18,2026-01-02,105774,Yes,Under Treatment,15
+1303,Christopher Murty,71,Male,Dermatology,Dr. Rao,Skin Allergy,2026-06-03,2026-06-07,144374,Yes,Under Treatment,4
+1304,Hiral Chaudhry,14,Male,Orthopedics,Dr. Patel,Back Pain,2025-06-02,2025-06-15,72087,Yes,Under Treatment,13
+1305,Devika Ratta,89,Female,Pediatrics,Dr. Patel,Flu,2025-03-17,2025-04-01,25159,Yes,Critical,15
+1306,Forum Mani,64,Male,Cardiology,Dr. Mehta,Arrhythmia,2025-10-13,2025-10-20,69176,No,Under Treatment,7
+1307,Chanakya Bal,63,Male,Orthopedics,Dr. Rao,Fracture,2025-01-23,2025-02-04,63551,No,Recovered,12
+1308,Michael Gola,89,Male,General Medicine,Dr. Singh,Infection,2026-05-30,2026-06-01,56671,No,Critical,2
+1309,Amaira Om,15,Male,Dermatology,Dr. Mehta,Eczema,2025-12-07,2025-12-09,145643,No,Recovered,2
+1310,Vasudha Shukla,43,Male,Neurology,Dr. Singh,Epilepsy,2025-05-21,2025-06-03,139968,Yes,Under Treatment,13
+1311,Advay Sura,85,Male,Pediatrics,Dr. Singh,Flu,2025-12-06,2025-12-21,141075,Yes,Critical,15
+1312,Omkaar Bakshi,11,Male,Neurology,Dr. Sharma,Migraine,2025-09-10,2025-09-13,80369,No,Recovered,3
+1313,Lekha Ray,5,Male,Neurology,Dr. Sharma,Migraine,2026-06-05,2026-06-17,84852,Yes,Critical,12
+1314,Vihaan Goswami,10,Female,Cardiology,Dr. Singh,Hypertension,2024-07-05,2024-07-13,40431,Yes,Recovered,8
+1315,Onkar Shenoy,84,Female,Neurology,Dr. Singh,Migraine,2024-08-21,2024-08-24,20671,Yes,Recovered,3
+1316,Hemangini Tata,38,Female,General Medicine,Dr. Kumar,Diabetes,2025-09-26,2025-10-08,84125,Yes,Critical,12
+1317,Saumya Sankar,54,Male,Cardiology,Dr. Rao,Heart Disease,2025-09-20,2025-09-29,69618,No,Critical,9
+1318,Laksh Gala,61,Female,Pediatrics,Dr. Singh,Flu,2025-07-28,2025-08-04,56491,No,Recovered,7
+1319,Udarsh Devi,63,Male,General Medicine,Dr. Patel,Infection,2025-06-18,2025-06-23,12091,Yes,Critical,5
+1320,Wridesh Oza,24,Female,Pediatrics,Dr. Patel,Flu,2026-02-02,2026-02-17,117748,Yes,Critical,15
+1321,Kritika Dube,60,Male,Neurology,Dr. Kumar,Migraine,2025-12-05,2025-12-14,23157,Yes,Under Treatment,9
+1322,Omkaar Loyal,15,Female,Pediatrics,Dr. Mehta,Flu,2024-10-04,2024-10-16,99093,Yes,Under Treatment,12
+1323,Warinder Dani,13,Female,Pediatrics,Dr. Mehta,Chickenpox,2025-05-07,2025-05-16,84210,No,Recovered,9
+1324,Niharika Chandra,63,Male,General Medicine,Dr. Rao,Fever,2025-09-27,2025-10-01,133758,Yes,Under Treatment,4
+1325,Udarsh Swamy,42,Female,Orthopedics,Dr. Sharma,Fracture,2025-07-26,2025-08-05,18544,No,Critical,10
+1326,Baljiwan Mand,5,Male,General Medicine,Dr. Singh,Fever,2024-08-23,2024-08-27,34566,Yes,Critical,4
+1327,Krish Prashad,76,Male,Dermatology,Dr. Mehta,Eczema,2025-06-07,2025-06-13,57555,No,Under Treatment,6
+1328,Dayamai Varkey,25,Male,Pediatrics,Dr. Kumar,Asthma,2025-01-06,2025-01-17,84050,Yes,Recovered,11
+1329,Kashvi Hora,8,Female,Dermatology,Dr. Sharma,Psoriasis,2025-08-03,2025-08-16,6652,Yes,Under Treatment,13
+1330,Jagrati Sharma,52,Male,Cardiology,Dr. Sharma,Heart Disease,2026-01-01,2026-01-06,68046,No,Recovered,5
+1331,Tara Bose,6,Male,Orthopedics,Dr. Patel,Arthritis,2025-06-18,2025-06-22,98101,No,Critical,4
+1332,Jonathan Modi,6,Female,Dermatology,Dr. Rao,Skin Allergy,2025-06-22,2025-06-28,72139,No,Recovered,6
+1333,Abhiram Batta,6,Female,Pediatrics,Dr. Rao,Flu,2025-05-23,2025-06-07,113998,Yes,Recovered,15
+1334,Kavya Sachar,3,Female,Pediatrics,Dr. Sharma,Chickenpox,2025-11-01,2025-11-09,18121,No,Recovered,8
+1335,Varsha Chokshi,1,Male,Cardiology,Dr. Patel,Arrhythmia,2025-07-25,2025-08-02,42763,No,Critical,8
+1336,Ekta Choudhury,75,Male,Pediatrics,Dr. Mehta,Asthma,2025-12-26,2026-01-08,22756,No,Critical,13
+1337,Kalpit Bhavsar,53,Male,Pediatrics,Dr. Mehta,Chickenpox,2025-08-20,2025-08-26,85138,Yes,Critical,6
+1338,Riya Sandal,24,Male,Pediatrics,Dr. Kumar,Asthma,2024-07-22,2024-07-29,134808,Yes,Critical,7
+1339,Charles Chandra,34,Male,Orthopedics,Dr. Singh,Arthritis,2026-03-30,2026-04-13,89433,No,Under Treatment,14
+1340,Umang Badami,56,Male,Dermatology,Dr. Mehta,Skin Allergy,2025-12-07,2025-12-18,133114,No,Recovered,11
+1341,Jairaj Natarajan,15,Female,Neurology,Dr. Singh,Epilepsy,2026-01-07,2026-01-14,82086,Yes,Recovered,7
+1342,Omisha Bal,55,Female,General Medicine,Dr. Singh,Infection,2026-01-07,2026-01-22,76668,Yes,Under Treatment,15
+1343,Vedant Deol,72,Female,Cardiology,Dr. Mehta,Hypertension,2024-09-07,2024-09-14,64994,No,Under Treatment,7
+1344,Chaitaly Sarma,47,Male,Orthopedics,Dr. Singh,Back Pain,2025-05-21,2025-06-01,146455,Yes,Recovered,11
+1345,Max Bava,54,Female,Orthopedics,Dr. Kumar,Back Pain,2025-03-25,2025-04-08,35154,No,Recovered,14
+1346,Madhavi Arora,4,Male,Neurology,Dr. Singh,Epilepsy,2025-04-28,2025-05-01,123468,Yes,Under Treatment,3
+1347,Chameli Hora,38,Female,Pediatrics,Dr. Mehta,Flu,2025-09-11,2025-09-22,138637,No,Critical,11
+1348,Watika Dhawan,3,Female,Neurology,Dr. Patel,Stroke,2025-10-29,2025-10-31,97353,Yes,Under Treatment,2
+1349,Harinakshi Anne,8,Female,Cardiology,Dr. Mehta,Hypertension,2024-12-05,2024-12-07,110627,No,Under Treatment,2
+1350,Tanmayi Mann,52,Female,Cardiology,Dr. Kumar,Heart Disease,2025-08-08,2025-08-19,113683,Yes,Recovered,11
+1351,Vyanjana Radhakrishnan,85,Female,Cardiology,Dr. Patel,Hypertension,2025-03-25,2025-03-31,67235,No,Critical,6
+1352,Faris Barad,60,Female,General Medicine,Dr. Singh,Fever,2024-07-06,2024-07-17,28034,No,Recovered,11
+1353,Prisha Baria,7,Male,Neurology,Dr. Mehta,Migraine,2025-10-31,2025-11-02,112987,No,Critical,2
+1354,Udyati Munshi,4,Male,Dermatology,Dr. Singh,Eczema,2025-04-11,2025-04-16,147498,Yes,Recovered,5
+1355,Xavier Khalsa,36,Female,General Medicine,Dr. Sharma,Diabetes,2026-01-20,2026-01-24,42035,Yes,Critical,4
+1356,Zinal Nayak,86,Female,Orthopedics,Dr. Patel,Arthritis,2024-08-09,2024-08-14,146288,No,Under Treatment,5
+1357,Pavani Cheema,32,Male,Orthopedics,Dr. Sharma,Arthritis,2026-01-26,2026-02-06,118379,No,Under Treatment,11
+1358,Arya Apte,59,Male,Cardiology,Dr. Patel,Heart Disease,2025-01-27,2025-02-08,144628,Yes,Under Treatment,12
+1359,Vanya Sridhar,44,Female,Orthopedics,Dr. Sharma,Back Pain,2026-02-03,2026-02-08,62762,No,Critical,5
+1360,Fiyaz Kalla,7,Male,Dermatology,Dr. Mehta,Eczema,2026-01-01,2026-01-16,73720,Yes,Under Treatment,15
+1361,Krishna Singh,67,Female,Dermatology,Dr. Rao,Skin Allergy,2024-12-14,2024-12-18,29745,No,Critical,4
+1362,Praneel De,43,Male,Dermatology,Dr. Singh,Skin Allergy,2025-07-14,2025-07-18,13786,Yes,Critical,4
+1363,Chavvi Parmer,29,Female,Dermatology,Dr. Sharma,Skin Allergy,2024-10-21,2024-10-25,71328,Yes,Recovered,4
+1364,Arjun Oza,37,Male,Pediatrics,Dr. Sharma,Asthma,2025-10-30,2025-11-06,145370,No,Recovered,7
+1365,Kavya Ghosh,22,Female,Dermatology,Dr. Kumar,Eczema,2024-11-04,2024-11-08,43365,No,Critical,4
+1366,Ojasvi Chowdhury,70,Male,Pediatrics,Dr. Kumar,Flu,2025-06-26,2025-07-10,46684,Yes,Recovered,14
+1367,Ishani Ben,48,Female,Dermatology,Dr. Singh,Skin Allergy,2024-10-15,2024-10-20,75231,No,Critical,5
+1368,Joshua Vyas,59,Male,General Medicine,Dr. Mehta,Fever,2025-09-05,2025-09-18,25433,Yes,Critical,13
+1369,Hitesh Yohannan,3,Female,Neurology,Dr. Rao,Migraine,2025-02-14,2025-02-22,149865,Yes,Critical,8
+1370,Guneet Tiwari,13,Male,Orthopedics,Dr. Mehta,Back Pain,2025-08-22,2025-09-03,87963,Yes,Recovered,12
+1371,Manthan Ray,87,Female,Cardiology,Dr. Rao,Arrhythmia,2024-07-18,2024-07-24,13630,Yes,Critical,6
+1372,Ijaya Bhalla,23,Male,Dermatology,Dr. Sharma,Skin Allergy,2025-04-05,2025-04-06,70602,Yes,Under Treatment,1
+1373,Manan Sarma,55,Male,Dermatology,Dr. Rao,Skin Allergy,2026-04-11,2026-04-15,103262,No,Recovered,4
+1374,Eta Barman,24,Male,General Medicine,Dr. Kumar,Fever,2025-09-18,2025-09-29,125083,Yes,Under Treatment,11
+1375,Yoshita Buch,36,Male,Orthopedics,Dr. Rao,Back Pain,2024-11-17,2024-11-21,61314,No,Critical,4
+1376,Ayushman Dalal,30,Female,General Medicine,Dr. Patel,Fever,2025-11-16,2025-11-23,24871,No,Recovered,7
+1377,Darika Tailor,86,Male,Orthopedics,Dr. Singh,Fracture,2025-11-10,2025-11-13,47057,No,Critical,3
+1378,Ethan Basak,12,Male,Cardiology,Dr. Kumar,Arrhythmia,2026-06-02,2026-06-09,112751,No,Recovered,7
+1379,Eshana Saxena,89,Female,Cardiology,Dr. Rao,Heart Disease,2024-12-28,2025-01-06,145757,Yes,Recovered,9
+1380,Yash Kapadia,90,Male,Pediatrics,Dr. Rao,Asthma,2024-09-17,2024-10-01,55108,Yes,Under Treatment,14
+1381,Urvi Peri,76,Female,Orthopedics,Dr. Mehta,Back Pain,2024-10-02,2024-10-03,33744,No,Under Treatment,1
+1382,Utkarsh Nath,21,Male,Cardiology,Dr. Kumar,Hypertension,2025-03-26,2025-03-29,27066,Yes,Critical,3
+1383,Sanya Balakrishnan,79,Female,Orthopedics,Dr. Mehta,Fracture,2026-01-22,2026-01-27,66318,Yes,Critical,5
+1384,Aarnav Chacko,10,Male,General Medicine,Dr. Patel,Diabetes,2026-04-01,2026-04-14,62254,No,Critical,13
+1385,Thomas Choudhary,1,Male,General Medicine,Dr. Rao,Fever,2026-05-16,2026-05-28,32488,Yes,Recovered,12
+1386,Chandani Rajagopal,85,Male,Neurology,Dr. Kumar,Stroke,2026-03-27,2026-04-08,124757,Yes,Recovered,12
+1387,Nimrat Thaker,70,Female,Neurology,Dr. Patel,Migraine,2025-10-28,2025-11-10,94667,No,Under Treatment,13
+1388,Gauri Kannan,61,Female,Neurology,Dr. Singh,Epilepsy,2026-03-12,2026-03-19,57015,Yes,Under Treatment,7
+1389,Samesh Sarna,86,Female,General Medicine,Dr. Singh,Diabetes,2026-03-27,2026-03-31,5714,Yes,Critical,4
+1390,Meera Yadav,56,Female,Cardiology,Dr. Singh,Arrhythmia,2025-06-26,2025-07-11,38124,No,Critical,15
+1391,Rachana Parmer,74,Male,Dermatology,Dr. Sharma,Eczema,2024-07-15,2024-07-27,122486,No,Recovered,12
+1392,Aarna Kala,78,Female,General Medicine,Dr. Singh,Infection,2025-04-09,2025-04-15,91714,No,Recovered,6
+1393,Frederick Bhagat,1,Male,Orthopedics,Dr. Mehta,Back Pain,2026-04-29,2026-05-14,93689,Yes,Recovered,15
+1394,Saksham Sarma,85,Female,Cardiology,Dr. Kumar,Arrhythmia,2024-09-28,2024-10-05,99398,Yes,Recovered,7
+1395,Qadim Swamy,7,Female,Orthopedics,Dr. Sharma,Fracture,2025-06-23,2025-06-27,143827,Yes,Under Treatment,4
+1396,Jason Dada,17,Female,Neurology,Dr. Mehta,Stroke,2026-04-29,2026-05-14,90426,Yes,Critical,15
+1397,Eshana Amble,5,Female,Dermatology,Dr. Sharma,Eczema,2026-02-02,2026-02-14,137650,No,Recovered,12
+1398,Fiyaz Rai,33,Male,Cardiology,Dr. Patel,Hypertension,2024-10-09,2024-10-18,121721,No,Under Treatment,9
+1399,Siya Atwal,88,Male,General Medicine,Dr. Singh,Infection,2026-02-07,2026-02-21,131097,No,Recovered,14
+1400,Rohan Gill,52,Female,Orthopedics,Dr. Patel,Back Pain,2025-11-13,2025-11-16,6987,No,Recovered,3
+1401,Pavani Balakrishnan,62,Male,General Medicine,Dr. Singh,Infection,2025-06-02,2025-06-08,67195,No,Under Treatment,6
+1402,Siddharth Balay,86,Female,Pediatrics,Dr. Kumar,Flu,2024-12-15,2024-12-16,95417,No,Critical,1
+1403,Jeremiah Vig,57,Female,Orthopedics,Dr. Sharma,Arthritis,2025-08-15,2025-08-28,13501,Yes,Under Treatment,13
+1404,Ojas Desai,83,Female,Pediatrics,Dr. Kumar,Asthma,2024-12-26,2025-01-02,29336,Yes,Under Treatment,7
+1405,Nilima Bala,49,Female,Dermatology,Dr. Singh,Skin Allergy,2025-01-23,2025-02-01,134722,No,Critical,9
+1406,Oeshi Chand,72,Male,Neurology,Dr. Patel,Stroke,2025-11-16,2025-11-28,56879,No,Recovered,12
+1407,Krishna Manne,70,Male,General Medicine,Dr. Rao,Fever,2024-07-27,2024-08-01,145343,No,Under Treatment,5
+1408,Aarnav Mistry,26,Male,Dermatology,Dr. Rao,Skin Allergy,2024-09-09,2024-09-22,52398,Yes,Under Treatment,13
+1409,Garima Dhar,16,Male,Cardiology,Dr. Kumar,Arrhythmia,2025-04-08,2025-04-09,128257,Yes,Under Treatment,1
+1410,Hredhaan Sharma,76,Female,Neurology,Dr. Patel,Epilepsy,2025-02-08,2025-02-22,49795,No,Under Treatment,14
+1411,Ganga Mukhopadhyay,81,Male,Neurology,Dr. Patel,Epilepsy,2025-09-26,2025-10-03,12310,No,Critical,7
+1412,Aarna Dewan,66,Male,Orthopedics,Dr. Sharma,Back Pain,2025-09-03,2025-09-07,135315,Yes,Critical,4
+1413,Yuvraj Dugal,17,Female,Neurology,Dr. Mehta,Stroke,2024-11-06,2024-11-14,11611,Yes,Recovered,8
+1414,Ekanta Konda,90,Male,Neurology,Dr. Mehta,Stroke,2026-01-28,2026-02-08,80214,No,Recovered,11
+1415,Aarini Bala,10,Female,Orthopedics,Dr. Sharma,Back Pain,2026-06-03,2026-06-16,31557,No,Under Treatment,13
+1416,Jai Prabhakar,23,Female,Orthopedics,Dr. Kumar,Fracture,2024-11-21,2024-12-01,119746,No,Recovered,10
+1417,Shivansh Bhardwaj,18,Female,General Medicine,Dr. Rao,Fever,2024-08-20,2024-09-01,38180,Yes,Critical,12
+1418,Vasana Deol,44,Male,Orthopedics,Dr. Mehta,Fracture,2026-01-18,2026-01-22,86445,Yes,Recovered,4
+1419,Sathvik Ramesh,88,Female,Neurology,Dr. Rao,Stroke,2025-08-20,2025-08-29,31086,No,Under Treatment,9
+1420,Victor Nazareth,43,Female,Cardiology,Dr. Rao,Heart Disease,2025-11-24,2025-11-30,27463,No,Under Treatment,6
+1421,Mekhala Borah,61,Male,Pediatrics,Dr. Singh,Flu,2025-08-12,2025-08-22,55100,Yes,Critical,10
+1422,Jonathan Dani,79,Male,Neurology,Dr. Mehta,Migraine,2026-04-12,2026-04-26,90966,No,Critical,14
+1423,Adweta Khare,5,Female,General Medicine,Dr. Patel,Infection,2024-10-02,2024-10-17,116913,Yes,Under Treatment,15
+1424,Tamanna Kapoor,55,Female,General Medicine,Dr. Patel,Infection,2026-03-17,2026-03-26,72143,Yes,Under Treatment,9
+1425,Baljiwan Bal,28,Female,Cardiology,Dr. Rao,Heart Disease,2024-11-25,2024-12-08,75820,No,Recovered,13
+1426,Hema Sagar,46,Male,Orthopedics,Dr. Kumar,Fracture,2026-05-04,2026-05-14,24463,Yes,Recovered,10
+1427,Omkaar Gour,8,Female,Pediatrics,Dr. Sharma,Flu,2024-07-02,2024-07-10,126464,Yes,Under Treatment,8
+1428,Gavin Goel,66,Male,Orthopedics,Dr. Singh,Arthritis,2024-10-17,2024-10-21,65218,No,Recovered,4
+1429,Dhriti Mukherjee,8,Male,Cardiology,Dr. Kumar,Arrhythmia,2026-01-02,2026-01-03,148583,Yes,Recovered,1
+1430,Bina Taneja,33,Male,Cardiology,Dr. Kumar,Heart Disease,2024-07-21,2024-08-02,14784,No,Recovered,12
+1431,Lopa Bhat,66,Male,Cardiology,Dr. Mehta,Hypertension,2025-05-30,2025-06-07,116372,No,Recovered,8
+1432,Divya Patil,23,Male,Dermatology,Dr. Patel,Eczema,2025-05-29,2025-06-02,22610,No,Critical,4
+1433,Balveer Sura,20,Male,Orthopedics,Dr. Sharma,Back Pain,2025-06-22,2025-07-01,36331,Yes,Under Treatment,9
+1434,Umang Hayer,73,Male,Cardiology,Dr. Sharma,Heart Disease,2025-03-12,2025-03-13,86214,Yes,Under Treatment,1
+1435,Jeet Ravi,61,Female,General Medicine,Dr. Mehta,Fever,2024-08-25,2024-09-09,49094,Yes,Under Treatment,15
+1436,Pratyush Chopra,49,Male,General Medicine,Dr. Kumar,Fever,2026-05-05,2026-05-20,56866,No,Critical,15
+1437,Jairaj Raman,54,Male,General Medicine,Dr. Singh,Diabetes,2025-05-26,2025-06-03,98827,Yes,Under Treatment,8
+1438,Krish Srinivas,49,Male,Neurology,Dr. Sharma,Stroke,2024-07-22,2024-08-02,149459,Yes,Critical,11
+1439,Prisha Chandran,22,Female,Neurology,Dr. Singh,Epilepsy,2025-01-01,2025-01-05,68992,No,Critical,4
+1440,Bina Bedi,21,Male,Dermatology,Dr. Patel,Skin Allergy,2024-08-22,2024-09-03,25748,No,Under Treatment,12
+1441,Ranbir Kaur,50,Female,General Medicine,Dr. Singh,Fever,2026-05-05,2026-05-07,10068,No,Critical,2
+1442,Tejas Gaba,50,Female,Pediatrics,Dr. Singh,Asthma,2026-06-10,2026-06-22,48125,Yes,Critical,12
+1443,Vedika Lata,25,Female,Neurology,Dr. Patel,Migraine,2026-05-25,2026-06-02,20518,Yes,Recovered,8
+1444,Mitali Ramesh,43,Male,Pediatrics,Dr. Patel,Flu,2026-06-16,2026-06-30,143155,No,Recovered,14
+1445,Nathan Radhakrishnan,14,Female,Neurology,Dr. Kumar,Migraine,2024-12-18,2024-12-26,46032,No,Critical,8
+1446,Upkaar Swaminathan,31,Male,General Medicine,Dr. Singh,Fever,2025-09-24,2025-09-28,148686,No,Critical,4
+1447,Eta Sanghvi,37,Female,General Medicine,Dr. Sharma,Fever,2024-12-27,2025-01-05,24691,No,Under Treatment,9
+1448,Naksh Venkatesh,90,Male,Orthopedics,Dr. Sharma,Back Pain,2025-11-03,2025-11-10,131632,No,Under Treatment,7
+1449,Gautam Salvi,45,Male,Neurology,Dr. Singh,Migraine,2026-03-22,2026-04-02,33031,Yes,Critical,11
+1450,Ronith Gokhale,47,Male,Cardiology,Dr. Kumar,Heart Disease,2026-04-26,2026-05-10,106555,No,Recovered,14
+1451,Upasna Krish,88,Male,Cardiology,Dr. Patel,Hypertension,2024-12-14,2024-12-29,32482,No,Critical,15
+1452,Daksha Dass,12,Male,Neurology,Dr. Rao,Epilepsy,2025-09-20,2025-10-02,68249,No,Critical,12
+1453,Ekta Raman,24,Male,General Medicine,Dr. Singh,Fever,2024-12-26,2024-12-27,60340,Yes,Under Treatment,1
+1454,Yadavi Setty,42,Male,Orthopedics,Dr. Sharma,Arthritis,2025-06-02,2025-06-07,33592,Yes,Critical,5
+1455,Neha Bahl,15,Male,Neurology,Dr. Mehta,Migraine,2025-01-08,2025-01-15,80743,Yes,Recovered,7
+1456,Keya Nagarajan,33,Female,General Medicine,Dr. Mehta,Infection,2025-04-24,2025-05-08,133999,No,Under Treatment,14
+1457,Ranbir Das,21,Male,General Medicine,Dr. Singh,Infection,2024-07-12,2024-07-15,96687,No,Under Treatment,3
+1458,Gaurav Mittal,12,Male,Orthopedics,Dr. Patel,Back Pain,2025-10-21,2025-10-25,61109,No,Critical,4
+1459,Zaid Sengupta,78,Female,Dermatology,Dr. Sharma,Psoriasis,2025-06-11,2025-06-17,26023,No,Under Treatment,6
+1460,Meera Garde,21,Male,General Medicine,Dr. Patel,Infection,2024-07-20,2024-07-23,19040,No,Under Treatment,3
+1461,Tara Sood,65,Female,Pediatrics,Dr. Mehta,Flu,2025-09-13,2025-09-20,118851,No,Recovered,7
+1462,Wazir Mallick,45,Male,General Medicine,Dr. Rao,Infection,2026-05-22,2026-06-01,11356,Yes,Recovered,10
+1463,Kabir Pau,87,Female,Neurology,Dr. Singh,Migraine,2025-05-03,2025-05-07,86838,Yes,Under Treatment,4
+1464,Urvi Madan,45,Female,General Medicine,Dr. Patel,Fever,2024-12-15,2024-12-28,70043,Yes,Under Treatment,13
+1465,Urishilla Chopra,79,Female,Dermatology,Dr. Sharma,Eczema,2026-06-05,2026-06-20,115489,Yes,Critical,15
+1466,Chandresh Mital,70,Male,Cardiology,Dr. Singh,Hypertension,2025-02-13,2025-02-17,22691,Yes,Under Treatment,4
+1467,George Chakraborty,40,Female,Pediatrics,Dr. Singh,Asthma,2024-10-09,2024-10-14,119771,No,Critical,5
+1468,Chakradev Manne,81,Female,Orthopedics,Dr. Patel,Arthritis,2025-03-30,2025-04-10,86350,No,Under Treatment,11
+1469,Bimala Natarajan,64,Female,General Medicine,Dr. Mehta,Diabetes,2025-09-15,2025-09-27,139615,Yes,Recovered,12
+1470,Orinder Thaker,11,Male,Pediatrics,Dr. Sharma,Chickenpox,2026-03-04,2026-03-11,57444,No,Under Treatment,7
+1471,Laban Bhargava,25,Male,Cardiology,Dr. Patel,Arrhythmia,2025-10-14,2025-10-20,70227,Yes,Critical,6
+1472,Yatin Baria,27,Male,Dermatology,Dr. Rao,Psoriasis,2026-01-04,2026-01-09,5075,No,Critical,5
+1473,Urishilla Parsa,36,Female,General Medicine,Dr. Kumar,Infection,2024-08-08,2024-08-12,124870,No,Under Treatment,4
+1474,Irya Pandit,73,Male,Neurology,Dr. Patel,Migraine,2024-10-15,2024-10-26,87585,Yes,Under Treatment,11
+1475,Lopa Ram,22,Male,Orthopedics,Dr. Rao,Back Pain,2024-11-24,2024-11-26,133938,No,Critical,2
+1476,Urmi Khatri,39,Female,General Medicine,Dr. Patel,Fever,2026-06-04,2026-06-10,42649,Yes,Recovered,6
+1477,Qarin Karnik,29,Male,Dermatology,Dr. Singh,Skin Allergy,2026-03-29,2026-04-11,139581,No,Critical,13
+1478,Yug Divan,23,Male,Pediatrics,Dr. Sharma,Asthma,2024-08-06,2024-08-16,40663,Yes,Under Treatment,10
+1479,Keya Mohan,34,Male,Dermatology,Dr. Rao,Psoriasis,2025-09-02,2025-09-17,50913,No,Critical,15
+1480,Aachal Peri,9,Female,Dermatology,Dr. Patel,Psoriasis,2026-03-29,2026-04-02,56844,No,Under Treatment,4
+1481,Arin Dutt,22,Female,Orthopedics,Dr. Patel,Fracture,2026-05-08,2026-05-18,136318,Yes,Under Treatment,10
+1482,Noah Nori,65,Male,Pediatrics,Dr. Singh,Flu,2025-12-21,2025-12-30,40580,No,Critical,9
+1483,Advay Banik,61,Female,Pediatrics,Dr. Patel,Chickenpox,2025-01-12,2025-01-25,36182,Yes,Critical,13
+1484,Warda Minhas,53,Male,Pediatrics,Dr. Sharma,Flu,2026-05-30,2026-06-09,86441,Yes,Critical,10
+1485,Yatin Virk,78,Male,Cardiology,Dr. Singh,Arrhythmia,2025-04-21,2025-04-23,84605,Yes,Under Treatment,2
+1486,Raksha Gulati,73,Female,Dermatology,Dr. Rao,Eczema,2025-01-29,2025-02-02,99661,Yes,Under Treatment,4
+1487,Jason Loke,1,Female,Pediatrics,Dr. Kumar,Chickenpox,2025-03-01,2025-03-07,61544,No,Recovered,6
+1488,Advik Savant,34,Male,Dermatology,Dr. Sharma,Skin Allergy,2026-03-02,2026-03-03,69417,Yes,Under Treatment,1
+1489,Abhimanyu Basu,14,Female,Orthopedics,Dr. Sharma,Back Pain,2024-10-29,2024-11-11,16920,Yes,Recovered,13
+1490,Faras Bera,15,Female,Pediatrics,Dr. Sharma,Chickenpox,2024-12-09,2024-12-13,91976,No,Recovered,4
+1491,Jhalak Pathak,1,Female,Orthopedics,Dr. Rao,Back Pain,2025-08-16,2025-08-29,22735,Yes,Under Treatment,13
+1492,Damini Garde,18,Male,General Medicine,Dr. Kumar,Infection,2025-08-24,2025-08-25,124793,Yes,Under Treatment,1
+1493,Oliver Grewal,80,Male,Cardiology,Dr. Singh,Heart Disease,2024-07-26,2024-08-05,119109,Yes,Recovered,10
+1494,Anusha Sachdev,13,Female,Dermatology,Dr. Sharma,Psoriasis,2025-07-16,2025-07-31,21103,No,Critical,15
+1495,Ishanvi Kakar,90,Male,Pediatrics,Dr. Kumar,Asthma,2024-07-20,2024-07-30,19420,Yes,Critical,10
+1496,Tejas Dass,25,Female,Dermatology,Dr. Mehta,Skin Allergy,2025-02-28,2025-03-13,76247,No,Under Treatment,13
+1497,Ishani Murthy,2,Male,General Medicine,Dr. Mehta,Infection,2025-12-12,2025-12-14,7300,Yes,Recovered,2
+1498,Zaid Doctor,20,Female,Cardiology,Dr. Rao,Arrhythmia,2025-03-26,2025-03-30,85011,Yes,Recovered,4
+1499,Wriddhish Mani,37,Female,Dermatology,Dr. Patel,Skin Allergy,2024-07-01,2024-07-16,100315,Yes,Critical,15
+1500,Deepa Lala,65,Male,Cardiology,Dr. Rao,Arrhythmia,2025-04-06,2025-04-16,36610,No,Critical,10
+1501,Chanakya Borde,48,Female,General Medicine,Dr. Patel,Fever,2025-01-01,2025-01-06,32537,Yes,Recovered,5
+1502,Pranit Palan,26,Female,Pediatrics,Dr. Patel,Asthma,2026-05-10,2026-05-22,46847,No,Under Treatment,12
+1503,Matthew Menon,31,Female,General Medicine,Dr. Mehta,Fever,2025-03-03,2025-03-08,57324,No,Under Treatment,5
+1504,Rachit Lanka,83,Male,Neurology,Dr. Kumar,Epilepsy,2024-11-01,2024-11-08,102539,No,Critical,7
+1505,Gunbir Brahmbhatt,30,Male,Dermatology,Dr. Singh,Skin Allergy,2026-02-05,2026-02-14,143987,No,Recovered,9
+1506,Radha Rege,46,Male,Cardiology,Dr. Patel,Heart Disease,2024-09-26,2024-09-28,52027,No,Recovered,2
+1507,Darpan Iyengar,59,Female,Neurology,Dr. Rao,Epilepsy,2025-09-09,2025-09-15,78538,No,Critical,6
+1508,Ansh Chacko,62,Female,Pediatrics,Dr. Mehta,Flu,2026-01-25,2026-02-01,143982,No,Critical,7
+1509,Quincy Deshmukh,65,Male,Neurology,Dr. Singh,Migraine,2025-01-06,2025-01-07,11709,No,Under Treatment,1
+1510,Chasmum Balay,14,Female,Orthopedics,Dr. Singh,Arthritis,2024-10-22,2024-10-24,47903,Yes,Under Treatment,2
+1511,Januja Munshi,8,Female,General Medicine,Dr. Patel,Fever,2024-07-25,2024-08-07,134108,Yes,Under Treatment,13
+1512,Yashica Bala,8,Male,Orthopedics,Dr. Kumar,Back Pain,2025-03-02,2025-03-15,64005,No,Recovered,13
+1513,Shravya Basak,46,Male,General Medicine,Dr. Patel,Diabetes,2025-09-22,2025-09-27,61208,Yes,Critical,5
+1514,Falak Guha,53,Female,General Medicine,Dr. Patel,Fever,2024-06-29,2024-07-12,72784,Yes,Under Treatment,13
+1515,Ikbal Khalsa,4,Female,Neurology,Dr. Sharma,Stroke,2024-10-23,2024-10-24,18704,Yes,Under Treatment,1
+1516,Arya Pradhan,37,Female,Neurology,Dr. Sharma,Epilepsy,2025-12-20,2025-12-27,67750,No,Recovered,7
+1517,Daksh Joshi,85,Female,Dermatology,Dr. Patel,Psoriasis,2025-01-06,2025-01-07,124502,No,Under Treatment,1
+1518,William De,31,Female,Neurology,Dr. Patel,Stroke,2026-01-17,2026-01-24,12291,Yes,Recovered,7
+1519,Dev Sarna,28,Female,Cardiology,Dr. Singh,Heart Disease,2024-12-12,2024-12-15,50574,No,Under Treatment,3
+1520,Hiral Rana,3,Male,Pediatrics,Dr. Sharma,Asthma,2025-10-20,2025-10-28,75612,Yes,Under Treatment,8
+1521,Yuvraj Suresh,29,Female,General Medicine,Dr. Mehta,Fever,2025-09-01,2025-09-10,115054,No,Recovered,9
+1522,Indrajit Contractor,47,Male,Pediatrics,Dr. Sharma,Flu,2025-06-21,2025-06-29,92089,Yes,Under Treatment,8
+1523,Ubika Sami,77,Female,Dermatology,Dr. Mehta,Psoriasis,2025-06-26,2025-07-03,129137,Yes,Critical,7
+1524,Bhanumati Chaudhari,21,Male,Cardiology,Dr. Patel,Heart Disease,2025-11-29,2025-12-09,60049,No,Under Treatment,10
+1525,Damyanti Soni,23,Male,Dermatology,Dr. Mehta,Skin Allergy,2024-10-03,2024-10-15,70016,No,Under Treatment,12
+1526,Elijah Dayal,31,Female,Cardiology,Dr. Mehta,Hypertension,2024-08-07,2024-08-20,97582,No,Recovered,13
+1527,Logan Ghosh,31,Male,Neurology,Dr. Rao,Migraine,2026-05-13,2026-05-20,23579,No,Recovered,7
+1528,Dayamai Balasubramanian,56,Male,General Medicine,Dr. Rao,Diabetes,2025-03-01,2025-03-13,130350,Yes,Critical,12
+1529,Hardik Sankar,76,Male,Neurology,Dr. Mehta,Migraine,2025-01-04,2025-01-10,26692,Yes,Critical,6
+1530,Jasmit Gill,53,Male,Pediatrics,Dr. Mehta,Asthma,2025-11-06,2025-11-19,9442,No,Recovered,13
+1531,Neha Venkataraman,68,Female,General Medicine,Dr. Kumar,Fever,2025-09-15,2025-09-19,36663,Yes,Recovered,4
+1532,Chaitaly Minhas,41,Male,Cardiology,Dr. Mehta,Heart Disease,2026-02-18,2026-02-22,34868,No,Under Treatment,4
+1533,Tanish Murthy,24,Female,Orthopedics,Dr. Sharma,Back Pain,2025-07-08,2025-07-19,54003,Yes,Under Treatment,11
+1534,Abeer Warrior,18,Female,Neurology,Dr. Sharma,Migraine,2025-03-24,2025-04-05,146436,Yes,Recovered,12
+1535,Benjamin Tella,90,Female,Pediatrics,Dr. Singh,Chickenpox,2024-12-12,2024-12-18,125284,Yes,Under Treatment,6
+1536,Nidra Mistry,83,Female,Orthopedics,Dr. Patel,Arthritis,2026-01-07,2026-01-10,66602,Yes,Recovered,3
+1537,Urmi Shah,56,Female,Pediatrics,Dr. Patel,Asthma,2026-03-16,2026-03-23,107445,No,Under Treatment,7
+1538,Netra De,6,Female,General Medicine,Dr. Sharma,Diabetes,2025-07-03,2025-07-04,99928,Yes,Recovered,1
+1539,Urishilla Dalal,26,Female,Cardiology,Dr. Mehta,Arrhythmia,2025-05-01,2025-05-16,61043,No,Under Treatment,15
+1540,Meera Bala,71,Male,General Medicine,Dr. Sharma,Infection,2026-01-16,2026-01-18,54327,Yes,Recovered,2
+1541,Avi Borah,23,Female,Neurology,Dr. Sharma,Migraine,2024-11-06,2024-11-10,31071,Yes,Under Treatment,4
+1542,Mohammed Date,82,Male,General Medicine,Dr. Kumar,Diabetes,2025-08-22,2025-09-04,16759,No,Under Treatment,13
+1543,Pahal Radhakrishnan,56,Female,Dermatology,Dr. Patel,Skin Allergy,2026-06-17,2026-06-25,61500,Yes,Under Treatment,8
+1544,Gaurangi Bhargava,48,Female,General Medicine,Dr. Mehta,Fever,2025-04-20,2025-05-03,145464,Yes,Under Treatment,13
+1545,Joshua Mani,70,Female,Cardiology,Dr. Singh,Hypertension,2025-05-13,2025-05-21,79015,No,Under Treatment,8
+1546,Tejas Mukhopadhyay,21,Male,Pediatrics,Dr. Rao,Chickenpox,2025-05-14,2025-05-21,52985,Yes,Under Treatment,7
+1547,Rayaan Hans,67,Male,Neurology,Dr. Sharma,Migraine,2024-10-11,2024-10-12,100290,No,Under Treatment,1
+1548,Chanakya Kar,73,Female,Pediatrics,Dr. Patel,Asthma,2025-12-17,2025-12-31,48251,No,Under Treatment,14
+1549,Theodore Dhillon,70,Female,Cardiology,Dr. Mehta,Arrhythmia,2026-04-02,2026-04-13,93825,Yes,Critical,11
+1550,Anay Hora,51,Female,Pediatrics,Dr. Sharma,Asthma,2024-07-19,2024-08-01,89866,Yes,Recovered,13
+1551,Urvashi Ben,78,Male,Dermatology,Dr. Singh,Skin Allergy,2024-10-17,2024-10-20,110704,Yes,Under Treatment,3
+1552,Lajita Bedi,21,Female,Neurology,Dr. Rao,Migraine,2025-09-30,2025-10-03,62105,Yes,Under Treatment,3
+1553,Kabir Grewal,34,Female,Cardiology,Dr. Rao,Hypertension,2026-06-20,2026-07-02,8470,Yes,Recovered,12
+1554,Dalbir Malhotra,48,Female,Pediatrics,Dr. Sharma,Flu,2025-03-24,2025-04-07,22326,Yes,Critical,14
+1555,Osha Datta,27,Female,General Medicine,Dr. Kumar,Infection,2025-08-25,2025-09-06,134070,Yes,Recovered,12
+1556,Daniel Dave,32,Female,Neurology,Dr. Patel,Epilepsy,2024-10-15,2024-10-24,24713,Yes,Recovered,9
+1557,Urvashi Kapoor,11,Male,Dermatology,Dr. Patel,Eczema,2026-03-04,2026-03-13,81717,Yes,Under Treatment,9
+1558,Hiral Bail,64,Male,Orthopedics,Dr. Mehta,Arthritis,2025-07-25,2025-08-02,119740,No,Under Treatment,8
+1559,Prisha Mishra,52,Female,Orthopedics,Dr. Patel,Arthritis,2024-12-08,2024-12-13,42904,No,Under Treatment,5
+1560,Urvashi Kakar,3,Male,Orthopedics,Dr. Kumar,Back Pain,2025-07-04,2025-07-14,51332,Yes,Under Treatment,10
+1561,Ikbal Kamdar,20,Female,Neurology,Dr. Kumar,Epilepsy,2025-05-22,2025-06-03,62420,Yes,Under Treatment,12
+1562,Warinder Sahni,55,Male,Neurology,Dr. Patel,Migraine,2024-07-27,2024-08-06,139108,No,Under Treatment,10
+1563,Eta Naik,12,Female,Dermatology,Dr. Patel,Psoriasis,2024-08-18,2024-08-24,55817,Yes,Critical,6
+1564,Bhanumati Varghese,78,Female,Orthopedics,Dr. Patel,Arthritis,2024-08-31,2024-09-13,142478,No,Critical,13
+1565,Aachal Upadhyay,34,Female,Orthopedics,Dr. Sharma,Back Pain,2024-11-29,2024-12-10,139583,No,Recovered,11
+1566,Ekaja Mitra,70,Male,Pediatrics,Dr. Singh,Asthma,2025-05-30,2025-06-08,132102,Yes,Under Treatment,9
+1567,Sai Wable,69,Male,Neurology,Dr. Sharma,Epilepsy,2025-08-23,2025-09-06,101474,No,Recovered,14
+1568,Triya Nori,24,Male,Cardiology,Dr. Sharma,Heart Disease,2024-08-15,2024-08-29,109009,No,Recovered,14
+1569,Praneel Sarraf,83,Male,Neurology,Dr. Mehta,Stroke,2026-05-27,2026-06-06,28457,Yes,Recovered,10
+1570,Isaiah Patla,20,Female,General Medicine,Dr. Singh,Diabetes,2026-05-19,2026-05-28,142803,Yes,Recovered,9
+1571,Forum Mani,72,Male,Neurology,Dr. Kumar,Epilepsy,2025-11-20,2025-11-28,21804,Yes,Recovered,8
+1572,Yauvani Sachdeva,22,Female,Neurology,Dr. Rao,Epilepsy,2024-07-18,2024-07-23,17289,No,Recovered,5
+1573,Damyanti Kalla,86,Female,Pediatrics,Dr. Mehta,Flu,2025-06-11,2025-06-19,114403,Yes,Under Treatment,8
+1574,Warjas Choudhary,61,Male,Orthopedics,Dr. Patel,Back Pain,2025-12-09,2025-12-24,102765,Yes,Recovered,15
+1575,Abeer Hayre,48,Female,General Medicine,Dr. Mehta,Infection,2025-07-11,2025-07-13,7517,Yes,Recovered,2
+1576,Kala Chandra,14,Female,Dermatology,Dr. Rao,Psoriasis,2025-11-29,2025-12-08,128880,No,Under Treatment,9
+1577,Vansha Narang,51,Male,Cardiology,Dr. Singh,Heart Disease,2026-01-29,2026-02-13,87767,Yes,Critical,15
+1578,Harrison Dhillon,78,Male,Pediatrics,Dr. Mehta,Asthma,2025-05-25,2025-06-02,125737,No,Under Treatment,8
+1579,Upma Divan,23,Male,Dermatology,Dr. Rao,Eczema,2024-11-22,2024-11-24,54128,Yes,Critical,2
+1580,Mekhala Kale,90,Female,Orthopedics,Dr. Rao,Fracture,2025-08-06,2025-08-20,77625,Yes,Under Treatment,14
+1581,Saumya Butala,20,Female,Dermatology,Dr. Singh,Eczema,2024-07-28,2024-08-04,64253,No,Critical,7
+1582,Irya Bhakta,9,Female,Neurology,Dr. Rao,Migraine,2025-04-02,2025-04-17,62325,Yes,Recovered,15
+1583,Darika Dhingra,31,Female,Orthopedics,Dr. Singh,Back Pain,2026-01-18,2026-01-24,99268,No,Critical,6
+1584,Hemangini Dash,83,Male,Pediatrics,Dr. Sharma,Asthma,2026-03-07,2026-03-10,47646,No,Under Treatment,3
+1585,Wazir Thakur,7,Male,Orthopedics,Dr. Rao,Back Pain,2025-06-20,2025-07-01,101226,No,Recovered,11
+1586,Tripti Gill,23,Female,Cardiology,Dr. Sharma,Arrhythmia,2026-05-04,2026-05-06,53966,Yes,Critical,2
+1587,William Puri,13,Female,Dermatology,Dr. Sharma,Psoriasis,2025-05-17,2025-06-01,112319,Yes,Under Treatment,15
+1588,Avi Nigam,66,Male,General Medicine,Dr. Singh,Diabetes,2025-12-17,2025-12-20,44401,No,Critical,3
+1589,Yadavi Swaminathan,85,Male,Cardiology,Dr. Singh,Heart Disease,2025-11-08,2025-11-23,101842,No,Recovered,15
+1590,Balhaar Ghose,34,Female,General Medicine,Dr. Singh,Infection,2024-12-10,2024-12-18,46013,No,Recovered,8
+1591,Jackson Baral,30,Female,Orthopedics,Dr. Kumar,Back Pain,2024-12-05,2024-12-13,5155,Yes,Recovered,8
+1592,Leela Sem,43,Male,Orthopedics,Dr. Rao,Fracture,2024-07-04,2024-07-19,120973,No,Recovered,15
+1593,Krishna Anand,52,Female,Neurology,Dr. Rao,Stroke,2025-10-29,2025-10-30,116588,No,Under Treatment,1
+1594,Ansh Mani,55,Male,Dermatology,Dr. Singh,Eczema,2026-02-06,2026-02-11,119655,Yes,Under Treatment,5
+1595,Keya Kannan,65,Male,Orthopedics,Dr. Kumar,Back Pain,2025-09-09,2025-09-17,43118,Yes,Recovered,8
+1596,Krish Nayak,70,Female,General Medicine,Dr. Singh,Infection,2025-01-05,2025-01-13,9983,No,Under Treatment,8
+1597,Zayan Shanker,6,Male,Dermatology,Dr. Rao,Eczema,2025-03-18,2025-03-21,111539,Yes,Critical,3
+1598,Om Deol,26,Male,Neurology,Dr. Patel,Stroke,2024-06-28,2024-07-04,134861,No,Recovered,6
+1599,Yadavi Dara,27,Male,Cardiology,Dr. Kumar,Arrhythmia,2025-03-16,2025-03-23,69991,No,Recovered,7
+1600,Vidhi Lala,87,Female,Dermatology,Dr. Kumar,Psoriasis,2025-08-11,2025-08-18,55861,Yes,Recovered,7
+1601,Lakshmi Ratta,39,Female,General Medicine,Dr. Sharma,Diabetes,2024-07-25,2024-08-05,25462,No,Under Treatment,11
+1602,Mason Iyer,36,Female,Orthopedics,Dr. Patel,Back Pain,2025-08-12,2025-08-17,47237,No,Recovered,5
+1603,Jyoti Mukhopadhyay,29,Male,Orthopedics,Dr. Mehta,Back Pain,2025-10-20,2025-11-04,68306,Yes,Critical,15
+1604,Vedika Jani,57,Male,General Medicine,Dr. Mehta,Diabetes,2025-02-04,2025-02-18,106892,Yes,Under Treatment,14
+1605,Eshana Narasimhan,38,Male,Cardiology,Dr. Patel,Arrhythmia,2025-06-06,2025-06-16,122613,No,Under Treatment,10
+1606,Ekanta Kara,2,Male,Neurology,Dr. Patel,Epilepsy,2025-05-21,2025-06-02,44383,No,Under Treatment,12
+1607,Saanvi Raman,5,Male,General Medicine,Dr. Singh,Infection,2024-12-31,2025-01-06,134907,Yes,Critical,6
+1608,Chakrika Handa,15,Male,Dermatology,Dr. Rao,Skin Allergy,2025-07-27,2025-08-02,97587,No,Critical,6
+1609,Om Ramachandran,3,Male,General Medicine,Dr. Sharma,Diabetes,2025-02-25,2025-03-07,25744,Yes,Recovered,10
+1610,Isha Thakkar,9,Female,Cardiology,Dr. Singh,Arrhythmia,2025-01-05,2025-01-14,103896,No,Recovered,9
+1611,Mason Shanker,33,Female,Pediatrics,Dr. Mehta,Chickenpox,2024-08-30,2024-09-14,37547,Yes,Under Treatment,15
+1612,Pranav Chahal,82,Female,Cardiology,Dr. Sharma,Hypertension,2026-06-20,2026-06-22,125719,Yes,Critical,2
+1613,Sanaya Modi,35,Male,Orthopedics,Dr. Kumar,Back Pain,2024-09-02,2024-09-14,92372,No,Recovered,12
+1614,Mohini Sarin,33,Female,Pediatrics,Dr. Kumar,Asthma,2025-05-31,2025-06-13,136724,No,Critical,13
+1615,Finn Sankar,82,Female,Cardiology,Dr. Mehta,Heart Disease,2025-12-04,2025-12-08,129245,No,Under Treatment,4
+1616,Chaitanya Kannan,66,Female,General Medicine,Dr. Sharma,Diabetes,2026-06-05,2026-06-07,94651,No,Under Treatment,2
+1617,Jyoti Bahri,52,Female,Neurology,Dr. Patel,Migraine,2024-07-03,2024-07-04,83196,No,Under Treatment,1
+1618,Qasim Venkataraman,74,Male,General Medicine,Dr. Sharma,Diabetes,2025-03-04,2025-03-14,49386,Yes,Under Treatment,10
+1619,Fariq Yadav,40,Female,Pediatrics,Dr. Sharma,Flu,2026-01-02,2026-01-11,110080,Yes,Under Treatment,9
+1620,Ojasvi Grover,89,Female,Neurology,Dr. Sharma,Stroke,2024-10-21,2024-10-23,65076,Yes,Under Treatment,2
+1621,Eta Bora,78,Female,Orthopedics,Dr. Singh,Fracture,2025-01-17,2025-01-23,35010,No,Critical,6
+1622,Simon Mahal,48,Female,Neurology,Dr. Sharma,Epilepsy,2024-08-03,2024-08-09,118393,No,Critical,6
+1623,Naveen Gara,50,Male,General Medicine,Dr. Kumar,Diabetes,2025-12-27,2026-01-07,95052,Yes,Under Treatment,11
+1624,Hritik Grover,24,Male,Neurology,Dr. Rao,Epilepsy,2026-04-06,2026-04-20,19902,No,Under Treatment,14
+1625,Dakshesh Ramakrishnan,47,Female,Cardiology,Dr. Kumar,Arrhythmia,2024-10-29,2024-11-04,124276,Yes,Critical,6
+1626,Charita Varkey,89,Male,Dermatology,Dr. Kumar,Eczema,2024-08-15,2024-08-28,46982,Yes,Critical,13
+1627,Dhruv Comar,29,Female,Orthopedics,Dr. Patel,Fracture,2025-02-17,2025-03-03,17212,Yes,Under Treatment,14
+1628,Deepa Purohit,87,Female,Orthopedics,Dr. Singh,Fracture,2026-03-23,2026-04-05,40709,Yes,Under Treatment,13
+1629,Ronith Arya,30,Female,Orthopedics,Dr. Rao,Back Pain,2026-02-26,2026-03-11,14737,Yes,Critical,13
+1630,Maanas Patla,60,Female,Pediatrics,Dr. Mehta,Chickenpox,2026-03-30,2026-04-06,77769,Yes,Under Treatment,7
+1631,Hardik Guha,38,Male,Cardiology,Dr. Kumar,Heart Disease,2025-08-26,2025-09-08,141483,Yes,Recovered,13
+1632,Omaja Chadha,39,Female,Dermatology,Dr. Rao,Eczema,2025-06-11,2025-06-14,31214,Yes,Critical,3
+1633,Tara Sarkar,25,Male,Neurology,Dr. Sharma,Epilepsy,2026-04-21,2026-05-05,142335,Yes,Critical,14
+1634,Indrajit Konda,29,Female,Cardiology,Dr. Sharma,Hypertension,2026-01-30,2026-02-14,49243,Yes,Under Treatment,15
+1635,Chaaya Andra,41,Male,Orthopedics,Dr. Kumar,Back Pain,2025-12-11,2025-12-19,127506,Yes,Under Treatment,8
+1636,Faraj Acharya,74,Female,General Medicine,Dr. Rao,Fever,2026-02-26,2026-03-07,114601,No,Recovered,9
+1637,Avni Kapoor,70,Female,Cardiology,Dr. Patel,Arrhythmia,2024-10-05,2024-10-10,70482,No,Under Treatment,5
+1638,Yamini Puri,29,Male,Neurology,Dr. Sharma,Epilepsy,2026-01-15,2026-01-20,99535,No,Under Treatment,5
+1639,Wridesh Krish,83,Male,General Medicine,Dr. Sharma,Diabetes,2025-09-21,2025-09-29,65452,Yes,Critical,8
+1640,Abha Merchant,54,Male,Neurology,Dr. Patel,Stroke,2025-05-22,2025-05-26,93503,Yes,Under Treatment,4
+1641,Nathaniel Kant,56,Female,Neurology,Dr. Kumar,Epilepsy,2024-11-02,2024-11-08,81924,No,Recovered,6
+1642,Bahadurjit Walla,67,Female,Dermatology,Dr. Mehta,Eczema,2026-05-25,2026-05-26,50049,Yes,Under Treatment,1
+1643,Tanay Sethi,73,Female,General Medicine,Dr. Singh,Diabetes,2025-07-21,2025-08-03,101176,No,Under Treatment,13
+1644,Victor Handa,26,Female,General Medicine,Dr. Sharma,Fever,2026-03-19,2026-03-26,102467,Yes,Critical,7
+1645,Bhanumati Ratti,3,Male,Neurology,Dr. Mehta,Migraine,2024-08-15,2024-08-18,45927,Yes,Recovered,3
+1646,Alka Mannan,6,Female,Pediatrics,Dr. Sharma,Chickenpox,2024-08-06,2024-08-09,73813,Yes,Recovered,3
+1647,Saksham Kaul,44,Male,Pediatrics,Dr. Singh,Chickenpox,2025-03-11,2025-03-23,78208,No,Recovered,12
+1648,Naveen Sachdeva,20,Female,General Medicine,Dr. Mehta,Infection,2025-01-27,2025-02-10,147966,No,Recovered,14
+1649,Dev Naik,1,Male,Cardiology,Dr. Rao,Arrhythmia,2025-08-17,2025-08-26,78029,No,Under Treatment,9
+1650,Raghav Pandit,52,Male,Neurology,Dr. Mehta,Epilepsy,2025-05-19,2025-05-31,90208,No,Critical,12
+1651,Nisha Sibal,90,Male,Cardiology,Dr. Kumar,Heart Disease,2025-02-14,2025-02-21,43560,Yes,Under Treatment,7
+1652,Sudiksha Narasimhan,31,Male,General Medicine,Dr. Rao,Diabetes,2024-08-25,2024-09-01,147571,Yes,Under Treatment,7
+1653,Robert Agarwal,28,Female,Dermatology,Dr. Singh,Skin Allergy,2024-08-26,2024-09-03,58709,No,Critical,8
+1654,Ekanta Buch,20,Male,General Medicine,Dr. Kumar,Diabetes,2025-11-22,2025-12-06,12180,No,Under Treatment,14
+1655,Urvashi Panchal,90,Female,Orthopedics,Dr. Patel,Back Pain,2026-03-01,2026-03-07,89682,Yes,Recovered,6
+1656,Chandani Narayanan,86,Female,Neurology,Dr. Singh,Migraine,2025-03-13,2025-03-20,125267,No,Critical,7
+1657,Fitan Merchant,5,Female,Cardiology,Dr. Sharma,Arrhythmia,2025-04-22,2025-04-23,53716,No,Under Treatment,1
+1658,Gayathri Garg,69,Female,Orthopedics,Dr. Patel,Back Pain,2025-01-05,2025-01-18,73862,Yes,Under Treatment,13
+1659,Abha Kothari,56,Female,Pediatrics,Dr. Patel,Asthma,2024-11-23,2024-12-03,46057,Yes,Recovered,10
+1660,Dhruv Chokshi,46,Male,Neurology,Dr. Sharma,Migraine,2026-02-10,2026-02-20,35493,Yes,Under Treatment,10
+1661,Varsha Sandhu,88,Female,Neurology,Dr. Patel,Stroke,2026-03-13,2026-03-18,127247,No,Recovered,5
+1662,Diya Shah,56,Male,Pediatrics,Dr. Sharma,Asthma,2025-11-30,2025-12-06,19316,Yes,Under Treatment,6
+1663,Max Choudhury,54,Male,Dermatology,Dr. Rao,Eczema,2025-12-01,2025-12-16,99127,No,Under Treatment,15
+1664,Owen Mammen,37,Male,Neurology,Dr. Kumar,Epilepsy,2024-10-07,2024-10-12,148160,Yes,Recovered,5
+1665,Chanakya Bora,52,Male,Dermatology,Dr. Sharma,Skin Allergy,2026-03-08,2026-03-22,116267,Yes,Critical,14
+1666,Yadavi Kashyap,58,Female,Pediatrics,Dr. Mehta,Asthma,2025-06-09,2025-06-14,106717,No,Critical,5
+1667,Andrew D’Alia,77,Female,Orthopedics,Dr. Sharma,Fracture,2024-12-01,2024-12-14,63176,No,Recovered,13
+1668,Udyati Kari,10,Female,Dermatology,Dr. Patel,Psoriasis,2026-03-08,2026-03-19,62743,Yes,Critical,11
+1669,Ranveer Rama,60,Female,General Medicine,Dr. Rao,Diabetes,2025-09-17,2025-09-29,46792,Yes,Critical,12
+1670,Nathaniel Dasgupta,37,Male,Neurology,Dr. Singh,Migraine,2025-12-14,2025-12-24,10436,Yes,Critical,10
+1671,Rachita Sem,51,Male,Dermatology,Dr. Patel,Skin Allergy,2025-06-06,2025-06-08,87674,No,Under Treatment,2
+1672,Arya Kibe,21,Male,Pediatrics,Dr. Rao,Flu,2025-08-12,2025-08-14,83699,No,Recovered,2
+1673,Raghav Bhargava,23,Male,Orthopedics,Dr. Mehta,Back Pain,2025-10-28,2025-11-02,7784,Yes,Under Treatment,5
+1674,Falan Bhatt,41,Male,General Medicine,Dr. Kumar,Fever,2025-09-01,2025-09-13,64559,No,Critical,12
+1675,Priya Menon,44,Male,General Medicine,Dr. Mehta,Diabetes,2025-06-26,2025-07-06,5184,Yes,Under Treatment,10
+1676,Sai Brahmbhatt,1,Female,Pediatrics,Dr. Mehta,Asthma,2025-08-09,2025-08-11,128846,No,Recovered,2
+1677,Kritika Venkataraman,5,Female,General Medicine,Dr. Patel,Diabetes,2025-04-16,2025-04-23,119447,No,Under Treatment,7
+1678,Faris Grover,75,Male,General Medicine,Dr. Singh,Fever,2024-08-11,2024-08-17,53462,No,Critical,6
+1679,Eta Merchant,73,Female,Cardiology,Dr. Mehta,Arrhythmia,2025-09-23,2025-10-02,85415,No,Recovered,9
+1680,Vyanjana Dutta,84,Male,Pediatrics,Dr. Singh,Flu,2025-08-26,2025-08-27,30815,No,Critical,1
+1681,Aarini Date,3,Male,Cardiology,Dr. Sharma,Arrhythmia,2025-06-22,2025-06-24,111970,Yes,Recovered,2
+1682,Robert Divan,75,Male,Orthopedics,Dr. Patel,Fracture,2025-09-21,2025-09-25,64608,No,Critical,4
+1683,Onveer Mitra,72,Male,Cardiology,Dr. Singh,Arrhythmia,2024-08-17,2024-08-19,56467,No,Critical,2
+1684,Omaja Sandhu,89,Male,General Medicine,Dr. Sharma,Infection,2025-10-29,2025-11-13,58436,No,Under Treatment,15
+1685,Yashvi Dada,70,Male,Cardiology,Dr. Rao,Heart Disease,2026-04-18,2026-05-02,13230,Yes,Under Treatment,14
+1686,Ojasvi Wason,21,Male,Dermatology,Dr. Singh,Eczema,2024-09-16,2024-09-23,12738,No,Under Treatment,7
+1687,Nirja Shukla,69,Male,Cardiology,Dr. Kumar,Arrhythmia,2025-01-20,2025-02-04,106900,Yes,Recovered,15
+1688,Yatin Mukhopadhyay,65,Male,Orthopedics,Dr. Mehta,Fracture,2026-05-23,2026-05-25,50429,Yes,Under Treatment,2
+1689,Meghana Lall,61,Male,Pediatrics,Dr. Singh,Chickenpox,2025-08-15,2025-08-27,37591,Yes,Recovered,12
+1690,Odika Sant,51,Male,Dermatology,Dr. Kumar,Psoriasis,2026-06-03,2026-06-09,23747,No,Recovered,6
+1691,Ekansh Chander,37,Male,Orthopedics,Dr. Sharma,Back Pain,2025-07-23,2025-07-28,35248,Yes,Critical,5
+1692,Tanmayi Varkey,22,Female,Cardiology,Dr. Mehta,Arrhythmia,2025-06-20,2025-06-27,133953,No,Under Treatment,7
+1693,Lakshmi Das,65,Female,Pediatrics,Dr. Patel,Flu,2025-03-23,2025-03-28,118232,Yes,Critical,5
+1694,Upma Mangal,81,Male,Pediatrics,Dr. Patel,Asthma,2025-04-28,2025-05-13,33625,Yes,Critical,15
+1695,Waida Gill,15,Female,General Medicine,Dr. Patel,Infection,2025-06-11,2025-06-13,143717,No,Critical,2
+1696,Vincent Luthra,60,Male,Cardiology,Dr. Rao,Arrhythmia,2025-03-28,2025-04-04,128483,No,Critical,7
+1697,Chaaya Dugar,35,Female,Orthopedics,Dr. Patel,Arthritis,2026-03-08,2026-03-13,88335,No,Recovered,5
+1698,Anthony Dash,35,Male,Cardiology,Dr. Rao,Heart Disease,2026-01-17,2026-01-30,31038,No,Recovered,13
+1699,Aarnav Arya,4,Male,Neurology,Dr. Sharma,Epilepsy,2025-08-11,2025-08-12,100372,Yes,Recovered,1
+1700,Rajeshri Din,75,Male,General Medicine,Dr. Sharma,Infection,2026-06-05,2026-06-15,6505,No,Recovered,10
+1701,Omisha Varughese,13,Male,Neurology,Dr. Sharma,Epilepsy,2024-10-30,2024-11-11,22282,No,Recovered,12
+1702,Gautam Ranganathan,63,Female,Orthopedics,Dr. Mehta,Fracture,2025-08-02,2025-08-03,101387,Yes,Under Treatment,1
+1703,Lipika Narain,79,Male,Cardiology,Dr. Kumar,Arrhythmia,2024-09-11,2024-09-13,139610,Yes,Critical,2
+1704,Urvashi Rajan,79,Female,General Medicine,Dr. Rao,Infection,2024-12-11,2024-12-12,58627,No,Under Treatment,1
+1705,Zinal Kadakia,12,Female,Orthopedics,Dr. Patel,Back Pain,2024-12-30,2025-01-14,73031,No,Recovered,15
+1706,Agastya Devi,8,Male,Pediatrics,Dr. Sharma,Asthma,2026-04-26,2026-05-04,13869,No,Recovered,8
+1707,Ubika Kohli,52,Female,Orthopedics,Dr. Sharma,Back Pain,2025-02-05,2025-02-19,69466,No,Under Treatment,14
+1708,Tanmayi Kunda,58,Female,Dermatology,Dr. Kumar,Skin Allergy,2025-03-09,2025-03-13,50114,Yes,Under Treatment,4
+1709,Amara Suresh,29,Female,Orthopedics,Dr. Kumar,Arthritis,2024-08-27,2024-09-06,38594,Yes,Recovered,10
+1710,Warjas Kanda,72,Female,Pediatrics,Dr. Mehta,Asthma,2024-12-31,2025-01-05,136133,Yes,Recovered,5
+1711,Jagat Chacko,65,Male,Neurology,Dr. Singh,Stroke,2026-03-20,2026-03-22,48819,No,Critical,2
+1712,Noah Agrawal,19,Female,Dermatology,Dr. Kumar,Skin Allergy,2024-08-31,2024-09-10,71742,No,Under Treatment,10
+1713,Amol Dutta,79,Male,Pediatrics,Dr. Kumar,Flu,2024-11-12,2024-11-21,38721,No,Under Treatment,9
+1714,Yashodhara Borah,66,Male,Pediatrics,Dr. Mehta,Flu,2025-12-16,2025-12-20,145070,No,Critical,4
+1715,Gavin Din,84,Male,Neurology,Dr. Singh,Stroke,2025-10-24,2025-10-26,98379,Yes,Recovered,2
+1716,Bimala Date,11,Male,Cardiology,Dr. Kumar,Arrhythmia,2025-06-10,2025-06-20,86738,Yes,Recovered,10
+1717,Mason Palla,78,Female,Neurology,Dr. Patel,Migraine,2026-06-18,2026-07-02,71372,No,Critical,14
+1718,Sarthak Dash,68,Male,Orthopedics,Dr. Rao,Arthritis,2025-05-28,2025-06-05,66924,Yes,Recovered,8
+1719,Orinder Muni,41,Male,Neurology,Dr. Singh,Stroke,2025-05-22,2025-05-24,56342,Yes,Under Treatment,2
+1720,Aashi Sridhar,84,Male,Dermatology,Dr. Sharma,Psoriasis,2026-02-11,2026-02-18,12554,Yes,Under Treatment,7
+1721,Vasudha Dani,61,Male,Orthopedics,Dr. Mehta,Arthritis,2026-02-20,2026-02-27,49944,Yes,Under Treatment,7
+1722,Charvi Korpal,12,Female,Neurology,Dr. Sharma,Stroke,2024-10-13,2024-10-21,54716,No,Under Treatment,8
+1723,Nathaniel Pingle,48,Male,General Medicine,Dr. Patel,Diabetes,2025-09-12,2025-09-25,10172,No,Recovered,13
+1724,Vyanjana Kadakia,36,Male,Orthopedics,Dr. Patel,Arthritis,2024-10-28,2024-11-09,36963,No,Critical,12
+1725,Zarna Grover,52,Male,General Medicine,Dr. Patel,Infection,2026-01-21,2026-01-23,57677,Yes,Recovered,2
+1726,Oscar Mandal,4,Female,Dermatology,Dr. Rao,Skin Allergy,2026-01-26,2026-02-10,13788,Yes,Under Treatment,15
+1727,Bina Garde,34,Female,Dermatology,Dr. Kumar,Eczema,2025-06-03,2025-06-17,20803,Yes,Critical,14
+1728,Krisha Kala,34,Female,Orthopedics,Dr. Mehta,Fracture,2025-03-16,2025-03-20,61602,No,Critical,4
+1729,Rohan Gulati,66,Female,Pediatrics,Dr. Singh,Asthma,2024-12-14,2024-12-17,53500,Yes,Under Treatment,3
+1730,Chasmum Hans,27,Male,Neurology,Dr. Singh,Epilepsy,2024-09-09,2024-09-21,24139,No,Recovered,12
+1731,Warhi Issac,69,Female,Pediatrics,Dr. Kumar,Flu,2024-10-01,2024-10-12,78737,Yes,Under Treatment,11
+1732,Imaran Mitra,72,Male,General Medicine,Dr. Sharma,Diabetes,2025-04-24,2025-04-25,115304,No,Recovered,1
+1733,Gautami Rajagopal,53,Female,Cardiology,Dr. Singh,Hypertension,2024-09-19,2024-09-30,14707,Yes,Under Treatment,11
+1734,Qadim Doctor,21,Female,Cardiology,Dr. Mehta,Arrhythmia,2025-06-29,2025-07-11,57245,No,Recovered,12
+1735,Yamini Cheema,85,Male,Dermatology,Dr. Kumar,Psoriasis,2026-03-14,2026-03-17,123355,Yes,Critical,3
+1736,Chasmum Kamdar,35,Male,Orthopedics,Dr. Singh,Back Pain,2026-05-31,2026-06-15,67741,Yes,Under Treatment,15
+1737,Dipta Krishnan,26,Female,Neurology,Dr. Singh,Migraine,2026-03-17,2026-04-01,53452,No,Recovered,15
+1738,Baghyawati Oommen,8,Female,Neurology,Dr. Mehta,Epilepsy,2024-12-04,2024-12-11,102042,Yes,Under Treatment,7
+1739,Hema Gola,11,Female,Cardiology,Dr. Kumar,Hypertension,2025-12-30,2026-01-09,81210,Yes,Under Treatment,10
+1740,Chanchal Patla,35,Male,General Medicine,Dr. Kumar,Diabetes,2026-03-21,2026-03-24,127932,No,Under Treatment,3
+1741,Mohini Bhatnagar,23,Female,General Medicine,Dr. Singh,Diabetes,2024-12-27,2024-12-30,56704,Yes,Under Treatment,3
+1742,Mohini Chanda,6,Female,Cardiology,Dr. Patel,Heart Disease,2025-09-04,2025-09-12,112317,Yes,Recovered,8
+1743,Neha Mahal,13,Male,Neurology,Dr. Sharma,Stroke,2025-03-22,2025-04-03,9198,Yes,Critical,12
+1744,Sanaya Chokshi,48,Female,Dermatology,Dr. Singh,Eczema,2024-08-27,2024-09-06,19668,Yes,Critical,10
+1745,Warda Cheema,9,Female,Pediatrics,Dr. Rao,Asthma,2026-05-20,2026-05-30,21481,No,Under Treatment,10
+1746,Azad De,74,Female,Dermatology,Dr. Sharma,Eczema,2025-01-25,2025-01-29,103492,Yes,Recovered,4
+1747,Ekanta Bir,80,Male,Orthopedics,Dr. Rao,Back Pain,2025-01-20,2025-02-04,38430,No,Under Treatment,15
+1748,Jagat Ganguly,22,Male,Orthopedics,Dr. Singh,Fracture,2024-08-04,2024-08-05,143684,Yes,Recovered,1
+1749,Ikbal Bhakta,73,Male,Dermatology,Dr. Patel,Eczema,2024-09-13,2024-09-28,136505,Yes,Recovered,15
+1750,Isha Banik,10,Female,Orthopedics,Dr. Patel,Fracture,2026-01-18,2026-01-26,98246,No,Critical,8
+1751,Yash Badal,43,Female,General Medicine,Dr. Singh,Diabetes,2025-06-05,2025-06-07,141250,No,Critical,2
+1752,Kamya Chatterjee,75,Female,Dermatology,Dr. Rao,Skin Allergy,2026-04-11,2026-04-15,108105,Yes,Under Treatment,4
+1753,Harsh Padmanabhan,55,Male,Cardiology,Dr. Mehta,Arrhythmia,2026-01-07,2026-01-17,46547,Yes,Recovered,10
+1754,Indali Garde,37,Female,General Medicine,Dr. Kumar,Fever,2025-05-07,2025-05-16,33716,No,Critical,9
+1755,Alexander Kohli,24,Male,General Medicine,Dr. Patel,Infection,2025-12-06,2025-12-13,88144,Yes,Recovered,7
+1756,Meghana Basak,69,Female,Dermatology,Dr. Rao,Eczema,2026-03-11,2026-03-20,137838,Yes,Recovered,9
+1757,Ekansh Choudhry,86,Male,Neurology,Dr. Kumar,Epilepsy,2024-08-14,2024-08-26,22088,No,Critical,12
+1758,Faqid Shetty,14,Male,Dermatology,Dr. Rao,Skin Allergy,2025-02-01,2025-02-06,64243,No,Recovered,5
+1759,Faras Comar,62,Male,Orthopedics,Dr. Singh,Arthritis,2026-02-22,2026-03-06,116459,Yes,Under Treatment,12
+1760,Yochana Dash,64,Female,General Medicine,Dr. Singh,Infection,2025-03-31,2025-04-04,139976,Yes,Under Treatment,4
+1761,Wazir Nadig,85,Male,Dermatology,Dr. Rao,Psoriasis,2025-04-23,2025-04-28,36726,No,Under Treatment,5
+1762,Aarnav Om,78,Female,Dermatology,Dr. Mehta,Skin Allergy,2026-05-01,2026-05-09,16548,Yes,Critical,8
+1763,Warda Anne,43,Female,General Medicine,Dr. Sharma,Infection,2024-11-18,2024-11-20,133204,No,Under Treatment,2
+1764,Ekanta Prasad,21,Female,Cardiology,Dr. Mehta,Heart Disease,2025-10-23,2025-10-30,25618,Yes,Critical,7
+1765,Tripti Koshy,8,Female,General Medicine,Dr. Sharma,Diabetes,2024-07-17,2024-07-28,33932,Yes,Under Treatment,11
+1766,Chaaya Dalal,78,Female,Neurology,Dr. Singh,Stroke,2025-11-07,2025-11-12,56158,Yes,Recovered,5
+1767,Rayaan Sarma,35,Female,Pediatrics,Dr. Mehta,Flu,2024-08-31,2024-09-06,5671,Yes,Under Treatment,6
+1768,Warjas Sachdeva,48,Female,Cardiology,Dr. Mehta,Arrhythmia,2025-07-20,2025-07-24,36325,Yes,Under Treatment,4
+1769,Madhavi Dhingra,30,Male,General Medicine,Dr. Kumar,Infection,2026-03-28,2026-04-12,132878,No,Recovered,15
+1770,Vasana Sem,44,Male,Pediatrics,Dr. Mehta,Chickenpox,2026-05-13,2026-05-25,119290,Yes,Critical,12
+1771,Gautami Ramachandran,67,Male,Orthopedics,Dr. Kumar,Back Pain,2024-11-18,2024-11-25,33064,Yes,Critical,7
+1772,Bhavya Hayre,72,Male,Orthopedics,Dr. Sharma,Fracture,2025-08-12,2025-08-18,75923,No,Under Treatment,6
+1773,Zayan Raval,52,Male,Orthopedics,Dr. Patel,Fracture,2025-02-05,2025-02-10,70469,Yes,Recovered,5
+1774,Pavani Kannan,71,Male,Pediatrics,Dr. Rao,Asthma,2026-01-05,2026-01-18,64566,No,Critical,13
+1775,Vritti Pradhan,25,Female,General Medicine,Dr. Kumar,Fever,2025-03-13,2025-03-14,44680,Yes,Critical,1
+1776,Neelima Mangal,19,Male,Cardiology,Dr. Patel,Heart Disease,2024-12-10,2024-12-21,83156,No,Recovered,11
+1777,Januja Sur,1,Female,Neurology,Dr. Singh,Migraine,2026-06-09,2026-06-20,73774,Yes,Under Treatment,11
+1778,Ojasvi Uppal,5,Female,Neurology,Dr. Rao,Stroke,2025-09-29,2025-10-02,31467,Yes,Critical,3
+1779,Priya Dara,78,Female,Neurology,Dr. Singh,Stroke,2025-07-21,2025-07-23,48834,No,Critical,2
+1780,Nidra Kakar,48,Male,Cardiology,Dr. Sharma,Heart Disease,2024-09-09,2024-09-21,46155,No,Under Treatment,12
+1781,Gavin Prashad,86,Male,Orthopedics,Dr. Kumar,Back Pain,2025-12-01,2025-12-12,103780,No,Under Treatment,11
+1782,Abha Panchal,84,Male,Orthopedics,Dr. Rao,Fracture,2025-02-23,2025-03-03,93833,Yes,Recovered,8
+1783,Indira Varughese,39,Female,Dermatology,Dr. Rao,Skin Allergy,2025-10-19,2025-10-25,93541,Yes,Under Treatment,6
+1784,William Krishnan,62,Female,Pediatrics,Dr. Mehta,Flu,2024-07-16,2024-07-22,40763,No,Recovered,6
+1785,Ronith Shenoy,39,Male,Orthopedics,Dr. Mehta,Back Pain,2025-11-11,2025-11-24,124771,Yes,Critical,13
+1786,Rishi Pau,20,Male,Neurology,Dr. Patel,Migraine,2024-12-01,2024-12-04,60758,Yes,Critical,3
+1787,Andrew Bali,84,Female,Orthopedics,Dr. Rao,Arthritis,2024-12-20,2025-01-02,99699,Yes,Under Treatment,13
+1788,Saksham Bir,13,Male,Dermatology,Dr. Rao,Skin Allergy,2026-05-22,2026-06-05,104164,Yes,Critical,14
+1789,Jyoti Bhasin,32,Female,Dermatology,Dr. Kumar,Skin Allergy,2024-11-15,2024-11-17,107522,No,Under Treatment,2
+1790,Timothy Boase,90,Female,Cardiology,Dr. Patel,Arrhythmia,2024-11-28,2024-12-09,109289,No,Under Treatment,11
+1791,Anjali Kumar,74,Female,General Medicine,Dr. Singh,Infection,2025-08-03,2025-08-09,44547,No,Under Treatment,6
+1792,Xavier Morar,27,Female,Pediatrics,Dr. Sharma,Flu,2024-12-06,2024-12-16,30846,No,Recovered,10
+1793,Baghyawati Sule,7,Male,Neurology,Dr. Patel,Migraine,2024-11-06,2024-11-21,74660,No,Critical,15
+1794,Madhav Ahluwalia,72,Male,Orthopedics,Dr. Patel,Arthritis,2025-02-19,2025-02-21,44437,No,Recovered,2
+1795,Dhriti Som,14,Female,Cardiology,Dr. Singh,Heart Disease,2025-04-24,2025-05-03,63649,Yes,Recovered,9
+1796,Vedika Jayaraman,84,Female,Dermatology,Dr. Mehta,Eczema,2026-03-26,2026-04-03,63547,Yes,Recovered,8
+1797,Aradhana Bir,10,Male,Dermatology,Dr. Singh,Psoriasis,2024-08-02,2024-08-12,42101,No,Under Treatment,10
+1798,Avni Din,72,Male,Neurology,Dr. Patel,Epilepsy,2025-11-07,2025-11-08,96283,No,Recovered,1
+1799,Keya Arya,62,Female,Neurology,Dr. Mehta,Stroke,2025-04-16,2025-04-19,65273,No,Recovered,3
+1800,Falan Kale,36,Male,Pediatrics,Dr. Mehta,Chickenpox,2024-12-12,2024-12-22,53316,No,Recovered,10
+1801,Aadi Raja,71,Female,Pediatrics,Dr. Singh,Flu,2025-01-21,2025-01-25,122558,No,Critical,4
+1802,Nakul Palla,86,Female,Orthopedics,Dr. Rao,Arthritis,2025-06-17,2025-06-27,64720,Yes,Recovered,10
+1803,Frederick Bhatia,25,Male,Orthopedics,Dr. Singh,Back Pain,2024-09-20,2024-09-22,112479,Yes,Critical,2
+1804,Odika Ranganathan,79,Female,General Medicine,Dr. Mehta,Infection,2024-06-27,2024-07-05,70178,No,Recovered,8
+1805,Kabir Mitra,28,Male,Neurology,Dr. Patel,Migraine,2026-04-21,2026-04-29,87128,Yes,Recovered,8
+1806,Ojas Nanda,35,Female,Pediatrics,Dr. Kumar,Flu,2025-10-29,2025-11-02,40210,No,Under Treatment,4
+1807,Jonathan Som,47,Female,Dermatology,Dr. Mehta,Skin Allergy,2024-12-31,2025-01-12,30506,No,Recovered,12
+1808,Aradhana Peri,21,Female,Dermatology,Dr. Mehta,Skin Allergy,2026-02-24,2026-03-02,118531,No,Recovered,6
+1809,Aarav Som,81,Male,Neurology,Dr. Kumar,Migraine,2025-01-17,2025-01-20,129614,No,Recovered,3
+1810,Anamika Memon,72,Male,Pediatrics,Dr. Patel,Asthma,2026-04-02,2026-04-10,5940,Yes,Recovered,8
+1811,Advay Bumb,65,Male,Orthopedics,Dr. Rao,Back Pain,2025-05-07,2025-05-10,34217,No,Under Treatment,3
+1812,Gagan Tella,10,Female,Dermatology,Dr. Sharma,Skin Allergy,2025-02-10,2025-02-25,28480,No,Under Treatment,15
+1813,Charita Baral,72,Female,Orthopedics,Dr. Mehta,Arthritis,2024-10-02,2024-10-03,123642,Yes,Under Treatment,1
+1814,Chandran Sunder,66,Female,General Medicine,Dr. Mehta,Fever,2024-11-25,2024-12-02,16813,No,Recovered,7
+1815,Nimrat Naik,20,Female,General Medicine,Dr. Mehta,Diabetes,2026-04-16,2026-04-23,17928,No,Critical,7
+1816,Damyanti Kalla,81,Female,Cardiology,Dr. Kumar,Heart Disease,2025-06-10,2025-06-25,108398,Yes,Recovered,15
+1817,Finn Chana,76,Female,General Medicine,Dr. Singh,Diabetes,2025-04-03,2025-04-10,19799,Yes,Critical,7
+1818,Farhan Sood,32,Female,Pediatrics,Dr. Rao,Flu,2024-07-19,2024-07-21,123035,No,Recovered,2
+1819,Xiti Acharya,84,Male,Orthopedics,Dr. Mehta,Arthritis,2026-05-28,2026-06-09,127216,No,Recovered,12
+1820,Peter Mishra,27,Male,Pediatrics,Dr. Rao,Chickenpox,2025-11-30,2025-12-01,65960,No,Critical,1
+1821,Nikita Kalita,64,Male,General Medicine,Dr. Patel,Infection,2025-12-31,2026-01-04,16659,Yes,Under Treatment,4
+1822,Ayaan Andra,46,Female,Pediatrics,Dr. Patel,Asthma,2026-02-12,2026-02-14,75223,Yes,Under Treatment,2
+1823,Bhavna Tella,24,Male,Neurology,Dr. Rao,Epilepsy,2026-05-27,2026-06-02,105663,Yes,Under Treatment,6
+1824,Imaran Dey,79,Male,Orthopedics,Dr. Sharma,Arthritis,2026-04-26,2026-05-07,43112,No,Critical,11
+1825,Bhavika Pant,37,Male,Orthopedics,Dr. Singh,Arthritis,2025-09-20,2025-09-29,41986,Yes,Recovered,9
+1826,Vasudha Shere,62,Female,Cardiology,Dr. Singh,Hypertension,2024-09-11,2024-09-23,128969,No,Under Treatment,12
+1827,Ekta Bahri,3,Female,Dermatology,Dr. Singh,Skin Allergy,2026-05-22,2026-05-25,93909,No,Under Treatment,3
+1828,Nitesh Bahl,49,Female,General Medicine,Dr. Patel,Diabetes,2025-04-18,2025-04-28,109297,No,Recovered,10
+1829,Aditya Kalita,86,Male,Dermatology,Dr. Rao,Eczema,2025-06-06,2025-06-09,5567,No,Critical,3
+1830,Krisha Dave,21,Female,Orthopedics,Dr. Mehta,Fracture,2026-01-06,2026-01-09,112818,Yes,Recovered,3
+1831,Chameli Natt,33,Female,Cardiology,Dr. Rao,Arrhythmia,2025-01-04,2025-01-09,65221,No,Critical,5
+1832,Qushi Krish,73,Female,Pediatrics,Dr. Kumar,Flu,2025-06-26,2025-07-07,51964,No,Under Treatment,11
+1833,Ekavir Parmer,73,Male,Orthopedics,Dr. Mehta,Arthritis,2025-06-26,2025-06-29,121984,Yes,Under Treatment,3
+1834,Joshua Varughese,73,Male,General Medicine,Dr. Rao,Fever,2024-12-24,2024-12-28,106423,No,Recovered,4
+1835,Pavani Kuruvilla,7,Male,Neurology,Dr. Mehta,Stroke,2026-04-19,2026-04-23,31351,Yes,Under Treatment,4
+1836,Aachal Mahal,60,Female,Cardiology,Dr. Sharma,Hypertension,2026-04-25,2026-05-01,75581,Yes,Under Treatment,6
+1837,Indrajit Rajagopal,44,Female,Orthopedics,Dr. Rao,Arthritis,2026-06-02,2026-06-09,113868,Yes,Under Treatment,7
+1838,Chatura Kaul,31,Female,Dermatology,Dr. Singh,Skin Allergy,2025-06-23,2025-06-24,107815,No,Recovered,1
+1839,Triya Raja,47,Male,Neurology,Dr. Mehta,Stroke,2025-11-08,2025-11-20,25375,No,Under Treatment,12
+1840,Udarsh Chaudry,38,Female,Orthopedics,Dr. Mehta,Fracture,2026-03-29,2026-04-07,66094,Yes,Recovered,9
+1841,Theodore Chawla,19,Male,Orthopedics,Dr. Singh,Fracture,2025-05-14,2025-05-16,75016,No,Critical,2
+1842,Triveni Gupta,86,Female,Dermatology,Dr. Sharma,Skin Allergy,2025-10-18,2025-10-31,141538,Yes,Under Treatment,13
+1843,Adweta Bawa,59,Female,Pediatrics,Dr. Singh,Chickenpox,2025-03-28,2025-04-04,110207,No,Under Treatment,7
+1844,Aayush Sathe,33,Female,Cardiology,Dr. Patel,Arrhythmia,2025-01-18,2025-01-20,117727,No,Critical,2
+1845,Liam Raju,2,Male,Dermatology,Dr. Sharma,Eczema,2025-04-02,2025-04-07,95803,Yes,Critical,5
+1846,Gunbir Keer,67,Female,Dermatology,Dr. Patel,Skin Allergy,2024-11-18,2024-12-01,57131,Yes,Critical,13
+1847,Yachana Sami,10,Male,Neurology,Dr. Kumar,Epilepsy,2024-11-26,2024-12-03,106638,No,Under Treatment,7
+1848,Damyanti Ratti,30,Female,Orthopedics,Dr. Sharma,Fracture,2024-11-13,2024-11-18,134896,Yes,Critical,5
+1849,Tripti Kibe,16,Female,Orthopedics,Dr. Singh,Fracture,2025-03-07,2025-03-14,39968,No,Recovered,7
+1850,Siya Batra,4,Female,General Medicine,Dr. Sharma,Infection,2024-11-16,2024-11-24,83220,No,Critical,8
+1851,Warinder Chowdhury,68,Male,Dermatology,Dr. Kumar,Skin Allergy,2026-06-03,2026-06-04,121420,Yes,Recovered,1
+1852,Chakrika Tripathi,61,Male,General Medicine,Dr. Sharma,Diabetes,2026-02-01,2026-02-09,32144,No,Recovered,8
+1853,Ranveer Sarraf,40,Female,Orthopedics,Dr. Kumar,Arthritis,2024-09-12,2024-09-23,68795,No,Recovered,11
+1854,Zashil Grover,18,Male,Dermatology,Dr. Rao,Psoriasis,2024-11-04,2024-11-11,107480,No,Under Treatment,7
+1855,Jeremiah Kannan,10,Female,Pediatrics,Dr. Singh,Asthma,2026-03-02,2026-03-11,144422,No,Critical,9
+1856,Faras Barman,74,Female,Neurology,Dr. Sharma,Epilepsy,2025-01-31,2025-02-05,32169,Yes,Under Treatment,5
+1857,Wriddhish Mand,8,Female,Orthopedics,Dr. Sharma,Back Pain,2025-08-21,2025-08-31,79500,Yes,Under Treatment,10
+1858,Manthan Banik,63,Male,Orthopedics,Dr. Patel,Back Pain,2025-06-23,2025-07-05,137318,No,Critical,12
+1859,Warjas Virk,60,Female,Orthopedics,Dr. Mehta,Arthritis,2025-08-22,2025-09-03,35289,Yes,Critical,12
+1860,Ridhi Bhatia,10,Female,Neurology,Dr. Kumar,Migraine,2024-07-11,2024-07-19,65618,Yes,Recovered,8
+1861,Yashasvi Andra,35,Female,Cardiology,Dr. Rao,Heart Disease,2025-07-10,2025-07-19,42501,Yes,Under Treatment,9
+1862,Tara Kant,19,Male,Orthopedics,Dr. Mehta,Arthritis,2024-10-26,2024-10-29,54125,No,Under Treatment,3
+1863,Ekaja Cheema,3,Male,Orthopedics,Dr. Mehta,Fracture,2025-12-30,2026-01-12,135383,No,Critical,13
+1864,Forum Parmar,34,Female,Dermatology,Dr. Sharma,Psoriasis,2025-03-20,2025-03-25,113266,Yes,Critical,5
+1865,Tanmayi Nagi,28,Male,Dermatology,Dr. Sharma,Eczema,2025-03-17,2025-03-30,54773,Yes,Critical,13
+1866,Leela Saini,51,Female,Dermatology,Dr. Mehta,Eczema,2024-12-25,2025-01-01,47545,No,Under Treatment,7
+1867,Leena Mane,44,Male,General Medicine,Dr. Sharma,Infection,2026-02-03,2026-02-10,138239,No,Under Treatment,7
+1868,Sneha Gara,59,Male,Cardiology,Dr. Sharma,Arrhythmia,2026-02-27,2026-03-11,20791,Yes,Under Treatment,12
+1869,Isha Devi,31,Female,Orthopedics,Dr. Singh,Back Pain,2026-03-18,2026-03-31,144178,No,Critical,13
+1870,Vinaya Lata,44,Male,General Medicine,Dr. Kumar,Fever,2026-02-14,2026-02-16,137074,No,Critical,2
+1871,Arya Mall,26,Female,Pediatrics,Dr. Mehta,Flu,2025-09-14,2025-09-15,88884,No,Recovered,1
+1872,Watika Baral,13,Male,Orthopedics,Dr. Rao,Fracture,2024-11-25,2024-12-06,110262,Yes,Critical,11
+1873,Advaith Mallick,62,Female,General Medicine,Dr. Patel,Diabetes,2025-08-01,2025-08-15,93320,Yes,Critical,14
+1874,Rachita Solanki,40,Male,Orthopedics,Dr. Mehta,Back Pain,2024-08-14,2024-08-15,91193,No,Critical,1
+1875,Amol Lala,20,Male,Cardiology,Dr. Mehta,Arrhythmia,2025-09-12,2025-09-21,121779,Yes,Critical,9
+1876,Yachana Deshmukh,10,Male,Dermatology,Dr. Mehta,Psoriasis,2025-09-19,2025-09-30,73876,No,Recovered,11
+1877,Praneel Behl,65,Male,Neurology,Dr. Sharma,Epilepsy,2024-11-19,2024-11-30,42605,No,Under Treatment,11
+1878,Tara Bandi,38,Female,Dermatology,Dr. Kumar,Psoriasis,2026-02-27,2026-03-12,19976,No,Under Treatment,13
+1879,Anusha Kala,75,Male,Dermatology,Dr. Singh,Eczema,2025-07-14,2025-07-29,47518,No,Recovered,15
+1880,Maanav Mital,12,Female,Cardiology,Dr. Mehta,Heart Disease,2025-01-21,2025-01-30,23648,Yes,Under Treatment,9
+1881,Siddharth Tripathi,50,Male,Neurology,Dr. Kumar,Migraine,2025-06-17,2025-07-02,44168,No,Recovered,15
+1882,Siddharth Goswami,77,Male,Neurology,Dr. Kumar,Epilepsy,2026-02-15,2026-02-28,26660,No,Critical,13
+1883,Alexander Sahota,53,Male,Neurology,Dr. Sharma,Epilepsy,2024-12-21,2024-12-24,112564,Yes,Critical,3
+1884,Amol Kamdar,63,Male,Cardiology,Dr. Mehta,Hypertension,2025-11-18,2025-11-22,32863,Yes,Critical,4
+1885,Bhanumati Bora,50,Male,Neurology,Dr. Singh,Epilepsy,2025-08-29,2025-09-01,139881,Yes,Critical,3
+1886,Gaurangi Ganesh,10,Female,Dermatology,Dr. Mehta,Eczema,2026-05-27,2026-06-06,78631,Yes,Critical,10
+1887,Mason Sankaran,20,Female,Pediatrics,Dr. Singh,Asthma,2024-07-22,2024-08-02,107080,No,Recovered,11
+1888,Urvashi Toor,51,Female,General Medicine,Dr. Kumar,Diabetes,2026-04-22,2026-04-25,78547,Yes,Recovered,3
+1889,Onkar Munshi,48,Female,Dermatology,Dr. Sharma,Skin Allergy,2025-01-25,2025-02-08,32106,Yes,Critical,14
+1890,George Sami,33,Male,Neurology,Dr. Patel,Migraine,2025-05-16,2025-05-27,138296,Yes,Recovered,11
+1891,Udant Panchal,1,Female,Orthopedics,Dr. Singh,Fracture,2024-06-21,2024-06-30,149322,Yes,Recovered,9
+1892,Idika Iyengar,89,Male,Dermatology,Dr. Patel,Eczema,2026-02-16,2026-02-24,101169,No,Under Treatment,8
+1893,Warda Rao,41,Male,Pediatrics,Dr. Sharma,Asthma,2024-10-21,2024-11-03,87355,Yes,Recovered,13
+1894,Forum Munshi,75,Male,General Medicine,Dr. Sharma,Fever,2026-03-07,2026-03-11,63239,No,Recovered,4
+1895,Owen Subramaniam,87,Male,Neurology,Dr. Singh,Epilepsy,2024-12-23,2024-12-24,63639,Yes,Critical,1
+1896,Maya Shah,3,Female,Dermatology,Dr. Sharma,Skin Allergy,2025-05-27,2025-05-29,136114,No,Critical,2
+1897,Mekhala Divan,51,Male,Pediatrics,Dr. Mehta,Asthma,2025-12-05,2025-12-08,59441,No,Recovered,3
+1898,Lakshit Sachar,72,Male,Dermatology,Dr. Rao,Psoriasis,2025-12-12,2025-12-26,59005,Yes,Critical,14
+1899,Max Sahota,58,Female,Dermatology,Dr. Rao,Psoriasis,2026-01-01,2026-01-09,37639,No,Critical,8
+1900,Pallavi Sarin,76,Female,General Medicine,Dr. Mehta,Fever,2025-09-08,2025-09-18,84359,Yes,Recovered,10
+1901,Atharv Kuruvilla,39,Female,Neurology,Dr. Singh,Migraine,2024-07-22,2024-07-29,61313,No,Under Treatment,7
+1902,Watika Sekhon,57,Female,Orthopedics,Dr. Mehta,Fracture,2026-06-16,2026-07-01,81227,Yes,Recovered,15
+1903,Chanchal Majumdar,16,Male,Cardiology,Dr. Sharma,Arrhythmia,2026-05-27,2026-06-06,138797,Yes,Under Treatment,10
+1904,Prisha Sahota,12,Female,Neurology,Dr. Kumar,Epilepsy,2025-12-22,2026-01-04,13471,No,Under Treatment,13
+1905,Mugdha Dani,33,Male,Orthopedics,Dr. Mehta,Fracture,2024-07-03,2024-07-13,9925,No,Critical,10
+1906,Upma Talwar,21,Female,Orthopedics,Dr. Kumar,Arthritis,2026-05-27,2026-06-10,103985,No,Recovered,14
+1907,Xalak Malhotra,15,Female,Dermatology,Dr. Kumar,Skin Allergy,2026-06-13,2026-06-22,114651,No,Recovered,9
+1908,Ranbir Gour,37,Female,Neurology,Dr. Mehta,Stroke,2024-08-02,2024-08-04,128654,Yes,Critical,2
+1909,Vasatika Ranganathan,16,Male,Orthopedics,Dr. Singh,Back Pain,2024-10-21,2024-10-30,78468,Yes,Critical,9
+1910,Kamya Warrior,59,Male,Orthopedics,Dr. Rao,Fracture,2025-09-26,2025-10-07,9523,No,Recovered,11
+1911,Orinder Nath,28,Male,Cardiology,Dr. Kumar,Hypertension,2024-10-12,2024-10-27,90937,Yes,Critical,15
+1912,Chakradhar Nayak,83,Female,Dermatology,Dr. Kumar,Skin Allergy,2026-02-04,2026-02-10,9052,Yes,Recovered,6
+1913,Upadhriti Kala,6,Female,Neurology,Dr. Rao,Stroke,2025-05-27,2025-06-11,116052,Yes,Critical,15
+1914,Veer Sangha,12,Female,Pediatrics,Dr. Mehta,Flu,2025-01-06,2025-01-11,141746,No,Under Treatment,5
+1915,Neha Madan,38,Female,Pediatrics,Dr. Sharma,Asthma,2024-08-05,2024-08-18,44270,No,Recovered,13
+1916,Daniel Dube,58,Female,Dermatology,Dr. Singh,Psoriasis,2025-06-15,2025-06-21,68752,No,Critical,6
+1917,Zaid Dass,54,Male,Cardiology,Dr. Sharma,Hypertension,2025-06-09,2025-06-22,37907,Yes,Under Treatment,13
+1918,Rachit Kurian,46,Male,Neurology,Dr. Sharma,Migraine,2024-08-23,2024-09-06,32178,No,Under Treatment,14
+1919,Gautam Bajaj,49,Male,General Medicine,Dr. Patel,Diabetes,2025-01-14,2025-01-16,65126,Yes,Under Treatment,2
+1920,Devansh Wadhwa,63,Female,Pediatrics,Dr. Mehta,Chickenpox,2025-02-28,2025-03-15,73285,Yes,Critical,15
+1921,Varsha Dave,80,Male,Pediatrics,Dr. Kumar,Asthma,2025-12-29,2025-12-30,9961,Yes,Recovered,1
+1922,Rehaan Tata,78,Male,Dermatology,Dr. Sharma,Psoriasis,2025-09-13,2025-09-17,103369,No,Under Treatment,4
+1923,Vedhika Sachdev,23,Male,Dermatology,Dr. Sharma,Eczema,2024-07-21,2024-08-02,30724,No,Under Treatment,12
+1924,Nilima Prasad,77,Female,Pediatrics,Dr. Kumar,Chickenpox,2025-04-02,2025-04-12,95589,No,Critical,10
+1925,Idika Seshadri,71,Female,General Medicine,Dr. Sharma,Infection,2025-04-23,2025-04-27,102425,No,Under Treatment,4
+1926,Adya Mohan,13,Male,Cardiology,Dr. Kumar,Heart Disease,2024-11-25,2024-12-10,111426,Yes,Recovered,15
+1927,Harshil Bal,2,Male,General Medicine,Dr. Kumar,Fever,2024-07-11,2024-07-20,120095,No,Under Treatment,9
+1928,Luke Khatri,77,Female,Dermatology,Dr. Mehta,Skin Allergy,2025-03-13,2025-03-16,120372,Yes,Critical,3
+1929,Orinder Om,75,Female,Orthopedics,Dr. Patel,Fracture,2025-05-17,2025-05-24,118110,Yes,Recovered,7
+1930,Hemal Devan,33,Male,Cardiology,Dr. Singh,Arrhythmia,2024-09-11,2024-09-15,34633,No,Critical,4
+1931,Vamakshi Luthra,81,Female,General Medicine,Dr. Rao,Fever,2025-02-10,2025-02-19,145445,No,Critical,9
+1932,Balendra Bhatia,2,Female,Dermatology,Dr. Kumar,Eczema,2026-06-18,2026-06-22,42855,Yes,Under Treatment,4
+1933,Arin Suri,80,Male,Cardiology,Dr. Patel,Arrhythmia,2026-01-04,2026-01-14,70696,Yes,Under Treatment,10
+1934,Mohammed Issac,88,Male,Neurology,Dr. Sharma,Epilepsy,2025-10-25,2025-11-09,27658,No,Critical,15
+1935,Samar Kalla,36,Female,Cardiology,Dr. Sharma,Heart Disease,2025-11-27,2025-11-30,36636,Yes,Critical,3
+1936,Gavin Goswami,16,Male,Dermatology,Dr. Singh,Eczema,2026-05-22,2026-05-31,121247,No,Under Treatment,9
+1937,Vedhika Bhatti,8,Male,Pediatrics,Dr. Mehta,Flu,2026-01-15,2026-01-26,63092,Yes,Under Treatment,11
+1938,Lajita Halder,54,Female,Pediatrics,Dr. Rao,Flu,2024-12-24,2025-01-03,18060,No,Recovered,10
+1939,Neel Dua,45,Male,Cardiology,Dr. Mehta,Arrhythmia,2024-10-27,2024-11-07,71054,No,Recovered,11
+1940,Banjeet Bora,48,Male,Neurology,Dr. Sharma,Epilepsy,2024-08-26,2024-09-05,32223,Yes,Under Treatment,10
+1941,Nicholas Karnik,18,Male,Pediatrics,Dr. Kumar,Chickenpox,2025-03-11,2025-03-18,65825,No,Under Treatment,7
+1942,Reyansh Narain,60,Female,Orthopedics,Dr. Sharma,Arthritis,2026-02-20,2026-02-27,18293,Yes,Critical,7
+1943,Jagdish Pingle,87,Male,Pediatrics,Dr. Kumar,Flu,2024-08-24,2024-09-01,70389,No,Recovered,8
+1944,Mugdha Deol,50,Male,Cardiology,Dr. Singh,Heart Disease,2025-07-16,2025-07-25,105291,No,Critical,9
+1945,Jai Sastry,60,Male,Dermatology,Dr. Patel,Psoriasis,2025-02-17,2025-03-02,29059,No,Under Treatment,13
+1946,Vansha Wagle,57,Female,General Medicine,Dr. Mehta,Diabetes,2024-07-23,2024-07-27,74355,No,Recovered,4
+1947,Faqid Sachdev,27,Female,Orthopedics,Dr. Patel,Back Pain,2025-06-05,2025-06-08,54316,No,Critical,3
+1948,Reyansh Arya,20,Female,Orthopedics,Dr. Mehta,Back Pain,2024-09-13,2024-09-23,97251,Yes,Critical,10
+1949,Imaran Sule,51,Male,Dermatology,Dr. Sharma,Psoriasis,2024-11-14,2024-11-16,42962,No,Recovered,2
+1950,Victor Raj,64,Female,Dermatology,Dr. Mehta,Psoriasis,2025-11-08,2025-11-22,31415,Yes,Critical,14
+1951,Faraj Chakrabarti,42,Male,Pediatrics,Dr. Rao,Asthma,2025-12-30,2026-01-03,55553,No,Recovered,4
+1952,Wyatt Parekh,19,Male,Cardiology,Dr. Sharma,Arrhythmia,2025-06-06,2025-06-21,20509,No,Critical,15
+1953,Charles Naidu,68,Male,Dermatology,Dr. Mehta,Eczema,2024-08-31,2024-09-02,49637,Yes,Recovered,2
+1954,Zilmil Sahni,49,Female,Neurology,Dr. Sharma,Stroke,2025-10-18,2025-11-01,124888,No,Critical,14
+1955,Sudiksha Raja,22,Male,General Medicine,Dr. Kumar,Diabetes,2025-04-28,2025-05-09,66246,Yes,Recovered,11
+1956,Warhi Uppal,21,Male,Orthopedics,Dr. Patel,Arthritis,2026-02-25,2026-03-09,98175,No,Critical,12
+1957,Dalaja Mani,9,Male,Pediatrics,Dr. Patel,Flu,2024-08-01,2024-08-04,129168,No,Under Treatment,3
+1958,Jalsa Dugal,54,Female,Neurology,Dr. Sharma,Stroke,2025-04-04,2025-04-11,68389,No,Under Treatment,7
+1959,Xavier Boase,36,Male,Neurology,Dr. Singh,Migraine,2026-05-19,2026-05-27,25744,No,Under Treatment,8
+1960,Ojasvi Ramanathan,26,Female,Pediatrics,Dr. Kumar,Asthma,2025-01-28,2025-02-05,126870,Yes,Recovered,8
+1961,Kritika Loyal,9,Female,Pediatrics,Dr. Kumar,Asthma,2026-04-30,2026-05-03,75005,No,Under Treatment,3
+1962,Laksh Chopra,31,Female,Pediatrics,Dr. Singh,Flu,2025-07-02,2025-07-11,52826,No,Critical,9
+1963,Osha Ramesh,10,Female,Dermatology,Dr. Kumar,Eczema,2026-05-24,2026-06-05,113199,No,Critical,12
+1964,Adya Tripathi,40,Female,Orthopedics,Dr. Sharma,Fracture,2025-07-28,2025-08-06,74514,Yes,Critical,9
+1965,Girindra Chokshi,50,Male,Orthopedics,Dr. Kumar,Arthritis,2025-06-04,2025-06-15,142801,No,Under Treatment,11
+1966,Zansi Madan,47,Female,Orthopedics,Dr. Patel,Arthritis,2024-08-14,2024-08-17,142852,No,Critical,3
+1967,Wakeeta Cherian,59,Male,Cardiology,Dr. Mehta,Hypertension,2024-11-27,2024-12-08,82997,No,Under Treatment,11
+1968,Dev Dhar,25,Male,Dermatology,Dr. Singh,Psoriasis,2025-08-30,2025-09-09,17780,No,Under Treatment,10
+1969,Yachana Rege,43,Male,Dermatology,Dr. Patel,Eczema,2025-02-15,2025-02-16,87184,Yes,Critical,1
+1970,Yatan Yogi,74,Female,General Medicine,Dr. Rao,Infection,2024-11-05,2024-11-18,48743,Yes,Recovered,13
+1971,Nathan Kannan,30,Male,Dermatology,Dr. Patel,Eczema,2025-09-25,2025-09-30,83494,Yes,Critical,5
+1972,Forum Krish,17,Male,Neurology,Dr. Mehta,Stroke,2026-06-14,2026-06-20,33048,No,Recovered,6
+1973,Tanveer Dhillon,64,Male,Orthopedics,Dr. Kumar,Arthritis,2026-01-16,2026-01-23,38804,Yes,Critical,7
+1974,Yug Vyas,21,Female,General Medicine,Dr. Sharma,Diabetes,2026-05-08,2026-05-12,113992,Yes,Under Treatment,4
+1975,Turvi Guha,39,Female,General Medicine,Dr. Rao,Fever,2026-06-03,2026-06-08,130712,No,Critical,5
+1976,Chandran Nadkarni,53,Female,Cardiology,Dr. Patel,Hypertension,2026-01-13,2026-01-28,102571,No,Recovered,15
+1977,Zinal Varma,87,Female,Pediatrics,Dr. Singh,Asthma,2026-03-31,2026-04-03,112287,No,Recovered,3
+1978,Chakradhar Chaudhuri,25,Male,Orthopedics,Dr. Singh,Fracture,2024-11-07,2024-11-13,134094,No,Critical,6
+1979,Charita Sha,32,Female,Dermatology,Dr. Rao,Psoriasis,2024-12-31,2025-01-09,137500,Yes,Critical,9
+1980,Jasmit Shan,62,Male,Pediatrics,Dr. Rao,Asthma,2026-03-27,2026-04-01,107301,No,Critical,5
+1981,Keya Anand,32,Female,Orthopedics,Dr. Kumar,Arthritis,2026-02-21,2026-02-26,108922,Yes,Under Treatment,5
+1982,Dhruv Aggarwal,12,Female,Pediatrics,Dr. Rao,Asthma,2026-04-11,2026-04-25,10656,Yes,Critical,14
+1983,Vamakshi Nayar,80,Male,Pediatrics,Dr. Rao,Flu,2025-07-21,2025-07-26,53078,Yes,Recovered,5
+1984,Bhavna Madan,84,Female,General Medicine,Dr. Patel,Infection,2025-05-08,2025-05-18,55336,No,Under Treatment,10
+1985,Zashil Sane,44,Male,General Medicine,Dr. Mehta,Infection,2025-04-07,2025-04-12,14809,No,Recovered,5
+1986,Orinder Srinivas,11,Male,Neurology,Dr. Patel,Migraine,2025-12-06,2025-12-13,51867,Yes,Critical,7
+1987,Aditya Bala,77,Female,General Medicine,Dr. Sharma,Fever,2025-01-10,2025-01-23,23561,No,Recovered,13
+1988,Balhaar Ramesh,86,Male,Neurology,Dr. Sharma,Migraine,2025-09-17,2025-09-23,118621,Yes,Recovered,6
+1989,Ridhi Grewal,85,Female,Orthopedics,Dr. Rao,Back Pain,2025-09-25,2025-10-02,99198,No,Under Treatment,7
+1990,Tejas Trivedi,62,Male,Dermatology,Dr. Mehta,Eczema,2025-02-19,2025-03-04,108946,No,Under Treatment,13
+1991,Anay Bhandari,72,Female,Pediatrics,Dr. Kumar,Asthma,2026-03-22,2026-03-23,83733,No,Critical,1
+1992,Rachit Chaudhuri,36,Male,General Medicine,Dr. Patel,Infection,2026-05-29,2026-06-09,65689,No,Under Treatment,11
+1993,Vansha Virk,16,Female,Neurology,Dr. Singh,Stroke,2025-09-27,2025-10-09,97676,Yes,Critical,12
+1994,Irya Ahluwalia,90,Male,Dermatology,Dr. Kumar,Eczema,2025-11-17,2025-11-19,116042,Yes,Critical,2
+1995,Charan Badami,60,Female,Pediatrics,Dr. Sharma,Asthma,2026-03-24,2026-04-06,22193,Yes,Under Treatment,13
+1996,Karan Mukherjee,55,Male,Neurology,Dr. Singh,Migraine,2026-05-26,2026-05-30,115895,Yes,Recovered,4
+1997,Kavya Singhal,76,Female,Cardiology,Dr. Patel,Hypertension,2025-01-07,2025-01-18,50779,No,Critical,11
+1998,Oscar Talwar,62,Female,Cardiology,Dr. Singh,Hypertension,2025-10-22,2025-10-28,132131,No,Under Treatment,6
+1999,Rayaan Sarna,31,Female,Dermatology,Dr. Singh,Psoriasis,2025-12-25,2026-01-06,105436,No,Under Treatment,12
+2000,Lajita Tiwari,56,Male,General Medicine,Dr. Kumar,Diabetes,2024-09-27,2024-09-29,80767,Yes,Recovered,2
